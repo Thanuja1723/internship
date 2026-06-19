@@ -1,0 +1,1001 @@
+Patient_ID,Patient_Name,Age,Gender,Disease,Admission_Date,Discharge_Date,Doctor_Name,Department,Treatment_Cost
+P0001,Robert Martinez,90,Male,Diabetes,2025-06-14,2025-06-22,Dr. Huber,Endocrinology,100926
+P0002,William Diaz,25,Female,Dengue,2025-01-04,2025-01-11,Dr. Roman,General Medicine,35540
+P0003,Larry Weaver,63,Female,Pneumonia,2024-01-12,2024-01-27,Dr. Finley,Pulmonology,41172
+P0004,Megan Green,63,Female,Dengue,2025-02-09,2025-02-17,Dr. Clark,General Medicine,27898
+P0005,Joseph Lee,84,Male,Dengue,2024-11-09,2024-11-16,Dr. Anderson,General Medicine,142542
+P0006,Christine Byrd,48,Female,Typhoid,2024-10-05,2024-10-12,Dr. Baker,General Medicine,23163
+P0007,Kathy Weaver,21,Male,Heart Disease,2024-09-23,2024-10-07,Dr. Carter,Cardiology,100266
+P0008,Hunter Kent,74,Female,Hypertension,2024-01-17,2024-01-28,Dr. Henderson,Cardiology,39475
+P0009,Edward Carter,90,Female,Heart Disease,2024-07-29,2024-08-10,Dr. Adkins,Cardiology,66034
+P0010,Michael Walsh,28,Male,Typhoid,2025-02-06,2025-02-11,Dr. Brown,General Medicine,73360
+P0011,Sarah Smith,9,Female,Hypertension,2025-06-10,2025-06-12,Dr. Bridges,Cardiology,142508
+P0012,Jeffery Campbell,60,Female,Heart Disease,2024-08-30,2024-09-03,Dr. Fuller,Cardiology,101821
+P0013,Ruben Mills,80,Male,Asthma,2025-01-19,2025-01-31,Dr. Lopez,Pulmonology,120665
+P0014,Charlene Davis,34,Female,Arthritis,2025-05-08,2025-05-10,Dr. Smith,Orthopedics,136351
+P0015,David Freeman,64,Male,Heart Disease,2025-09-04,2025-09-17,Dr. Coleman,Cardiology,86553
+P0016,Chloe Simon,89,Male,COVID-19,2025-06-22,2025-07-06,Dr. Taylor,General Medicine,114339
+P0017,Jose Park,24,Female,Heart Disease,2024-05-08,2024-05-16,Dr. Ortiz,Cardiology,18876
+P0018,Hailey Bell MD,74,Female,Dengue,2024-08-08,2024-08-13,Dr. Mack,General Medicine,74746
+P0019,Kyle Simpson,71,Female,Asthma,2024-11-03,2024-11-17,Dr. Price,Pulmonology,132846
+P0020,Janet Ramirez,84,Male,Typhoid,2024-10-17,2024-10-25,Dr. Chavez,General Medicine,54703
+P0021,Lawrence Thompson,52,Male,Migraine,2024-11-25,2024-12-09,Dr. Harris,Neurology,144260
+P0022,Joshua Dorsey,82,Female,Typhoid,2024-12-13,2024-12-21,Dr. Wilkins,General Medicine,113448
+P0023,Evan Reid,32,Male,Diabetes,2024-08-26,2024-08-27,Dr. Williams,Endocrinology,124177
+P0024,Karen Walker,26,Male,Diabetes,2025-01-27,2025-01-28,Dr. Moore,Endocrinology,141476
+P0025,Dr. David Diaz,29,Female,Diabetes,2024-07-15,2024-07-29,Dr. Clark,Endocrinology,18276
+P0026,Kent Johnson,5,Female,COVID-19,2025-08-28,2025-09-12,Dr. Barnes,General Medicine,87150
+P0027,Jeremy Rodriguez,51,Female,COVID-19,2025-09-14,2025-09-23,Dr. Lin,General Medicine,50393
+P0028,Alan Woodward,20,Female,Hypertension,2025-01-16,2025-01-18,Dr. Wagner,Cardiology,78553
+P0029,Ronald Hall,62,Female,Typhoid,2025-12-30,2026-01-09,Dr. Ryan,General Medicine,45199
+P0030,Melissa Wilkinson,70,Male,Migraine,2025-09-17,2025-09-25,Dr. Hanson,Neurology,39473
+P0031,David Thomas,68,Female,Pneumonia,2024-04-03,2024-04-09,Dr. Thompson,Pulmonology,92815
+P0032,Brittney Thompson,9,Male,Heart Disease,2024-10-30,2024-11-04,Dr. Thomas,Cardiology,20560
+P0033,Renee Robertson,6,Female,Dengue,2025-01-17,2025-02-01,Dr. Nelson,General Medicine,123237
+P0034,Melissa Ellis,61,Female,Typhoid,2025-01-29,2025-02-07,Dr. Parker,General Medicine,100568
+P0035,Roberto Contreras,80,Female,Diabetes,2024-04-26,2024-05-08,Dr. Jackson,Endocrinology,124668
+P0036,Samantha Rogers,80,Female,Heart Disease,2025-05-22,2025-05-30,Dr. Jones,Cardiology,66587
+P0037,Joel Hood,87,Female,Hypertension,2025-01-22,2025-01-31,Dr. Vaughan,Cardiology,117710
+P0038,James Bell,69,Male,Heart Disease,2025-11-29,2025-12-14,Dr. Welch,Cardiology,138137
+P0039,Vickie White,9,Male,Heart Disease,2025-04-30,2025-05-15,Dr. Martinez,Cardiology,92552
+P0040,Katherine Roberts,50,Female,COVID-19,2024-05-22,2024-06-04,Dr. Stevens,General Medicine,125921
+P0041,Christina Collins,30,Male,Migraine,2024-03-18,2024-03-20,Dr. Pennington,Neurology,138506
+P0042,Olivia Christian,12,Female,Migraine,2025-01-18,2025-01-19,Dr. Wilson,Neurology,112846
+P0043,Anita Donaldson,63,Female,Pneumonia,2024-04-22,2024-04-24,Dr. Baker,Pulmonology,56331
+P0044,Aaron Ritter,38,Male,Arthritis,2025-04-20,2025-04-29,Dr. Jones,Orthopedics,104499
+P0045,Ashley Robinson,35,Female,Pneumonia,2025-06-25,2025-06-28,Dr. Allison,Pulmonology,12531
+P0046,Meghan Huang,22,Female,Asthma,2024-01-23,2024-01-31,Dr. Cooper,Pulmonology,105153
+P0047,Maria Morgan,61,Male,Arthritis,2025-01-03,2025-01-17,Dr. Wood,Orthopedics,23864
+P0048,Ashley Johnson,33,Male,COVID-19,2025-03-30,2025-04-12,Dr. Hall,General Medicine,22181
+P0049,Dustin Johnson,39,Male,Pneumonia,2025-03-07,2025-03-17,Dr. Schmidt,Pulmonology,26621
+P0050,Cody White,84,Male,Heart Disease,2025-05-09,2025-05-16,Dr. Perez,Cardiology,90731
+P0051,Charles Wilson,52,Female,Hypertension,2025-07-07,2025-07-10,Dr. White,Cardiology,119578
+P0052,Nicole Harrison,36,Male,Migraine,2024-10-12,2024-10-25,Dr. Harris,Neurology,110763
+P0053,Jennifer Parker,10,Male,Migraine,2024-03-18,2024-03-29,Dr. Smith,Neurology,49969
+P0054,Carolyn Delgado,90,Male,Arthritis,2025-01-03,2025-01-12,Dr. Frost,Orthopedics,122216
+P0055,Sarah Foster,11,Male,Pneumonia,2025-12-05,2025-12-11,Dr. Stout,Pulmonology,23519
+P0056,Joseph Bailey,28,Male,Heart Disease,2024-06-03,2024-06-15,Dr. Huang,Cardiology,18623
+P0057,Mary Hammond,77,Male,Heart Disease,2024-10-24,2024-11-06,Dr. Francis,Cardiology,64763
+P0058,James Crosby,62,Female,Arthritis,2024-09-13,2024-09-26,Dr. Allen,Orthopedics,94142
+P0059,Jessica Chang,20,Female,COVID-19,2025-12-14,2025-12-18,Dr. Kelley,General Medicine,109091
+P0060,Caleb Williams,54,Male,Diabetes,2025-07-26,2025-08-09,Dr. Perez,Endocrinology,83550
+P0061,Jennifer Chavez,69,Male,Migraine,2024-05-31,2024-06-04,Dr. Harris,Neurology,10568
+P0062,Carl Brown,32,Female,Dengue,2024-08-20,2024-08-29,Dr. Golden,General Medicine,60404
+P0063,Garrett Williams,47,Male,Arthritis,2025-11-23,2025-12-08,Dr. Lee,Orthopedics,69629
+P0064,Anthony Davis,58,Female,Migraine,2025-09-30,2025-10-10,Dr. Chung,Neurology,51848
+P0065,Adam Hernandez,78,Female,Heart Disease,2025-10-03,2025-10-08,Dr. Parks,Cardiology,62647
+P0066,Krystal Mitchell,15,Female,Migraine,2025-05-02,2025-05-10,Dr. Harris,Neurology,17944
+P0067,Christine Hernandez,65,Male,Dengue,2025-11-28,2025-12-10,Dr. Hall,General Medicine,15305
+P0068,Arthur Fernandez,79,Male,Migraine,2024-07-24,2024-07-28,Dr. Hodge,Neurology,62412
+P0069,Marcus Ross,24,Male,Hypertension,2024-05-04,2024-05-10,Dr. Thomas,Cardiology,83276
+P0070,James Griffin,55,Male,Pneumonia,2025-05-20,2025-05-28,Dr. Ellis,Pulmonology,66923
+P0071,Jeffrey Bennett,77,Male,Typhoid,2025-10-06,2025-10-14,Dr. White,General Medicine,39544
+P0072,Darryl Sharp,4,Female,Heart Disease,2024-02-08,2024-02-10,Dr. Scott,Cardiology,27907
+P0073,Matthew Leonard,80,Male,Diabetes,2025-07-18,2025-07-27,Dr. Bennett,Endocrinology,148709
+P0074,Jordan Smith,2,Male,Hypertension,2025-07-23,2025-08-07,Dr. Pham,Cardiology,33405
+P0075,Luis Burns,53,Male,Migraine,2024-05-01,2024-05-08,Dr. Wilson,Neurology,77374
+P0076,Taylor Murphy,64,Female,Hypertension,2025-08-04,2025-08-11,Dr. Smith,Cardiology,82758
+P0077,Christian Smith,38,Male,Pneumonia,2024-09-01,2024-09-14,Dr. Lopez,Pulmonology,61379
+P0078,Colleen Jones,52,Male,COVID-19,2025-03-06,2025-03-11,Dr. Reyes,General Medicine,143808
+P0079,Sherry Williams,44,Female,Typhoid,2025-06-06,2025-06-16,Dr. Olson,General Medicine,80934
+P0080,Robert Martinez,54,Male,Hypertension,2024-02-20,2024-02-21,Dr. Turner,Cardiology,75884
+P0081,James Smith,88,Male,Dengue,2025-07-01,2025-07-12,Dr. Moore,General Medicine,109513
+P0082,David Bean,81,Male,Asthma,2024-10-10,2024-10-11,Dr. Tucker,Pulmonology,110672
+P0083,Paul Melton,67,Male,Typhoid,2025-08-18,2025-08-27,Dr. Williams,General Medicine,112051
+P0084,Katrina Holt,37,Male,Arthritis,2025-10-03,2025-10-10,Dr. Kramer,Orthopedics,103728
+P0085,Brian Hernandez,72,Male,Asthma,2024-02-22,2024-03-03,Dr. Powell,Pulmonology,36439
+P0086,Gregory Reyes,64,Male,Heart Disease,2024-07-16,2024-07-24,Dr. Li,Cardiology,31998
+P0087,Maria Wilson,58,Male,Arthritis,2025-11-19,2025-11-27,Dr. Kim,Orthopedics,63704
+P0088,Jonathan Calderon,42,Male,Typhoid,2024-07-10,2024-07-11,Dr. Byrd,General Medicine,27078
+P0089,Ruth Lee,60,Male,Hypertension,2024-10-29,2024-11-05,Dr. Kim,Cardiology,37775
+P0090,Teresa Tran,15,Male,Dengue,2024-03-27,2024-04-05,Dr. Wood,General Medicine,14631
+P0091,Richard Lawrence,38,Male,COVID-19,2024-04-13,2024-04-20,Dr. Olson,General Medicine,43029
+P0092,James Lee,2,Female,Hypertension,2024-10-30,2024-11-10,Dr. Ferguson,Cardiology,124371
+P0093,Cassidy Porter,39,Female,COVID-19,2024-06-19,2024-06-26,Dr. Aguilar,General Medicine,98169
+P0094,Kelly Kramer,9,Female,Heart Disease,2024-05-25,2024-06-02,Dr. Jacobs,Cardiology,149264
+P0095,Tanya Miller,52,Male,Asthma,2024-04-12,2024-04-23,Dr. Fuller,Pulmonology,37171
+P0096,Victoria Smith DVM,77,Male,Typhoid,2025-12-05,2025-12-15,Dr. Smith,General Medicine,118228
+P0097,Bill Miller,8,Female,Typhoid,2025-07-21,2025-08-04,Dr. Anderson,General Medicine,40610
+P0098,John Garcia,31,Male,Asthma,2024-12-25,2025-01-01,Dr. Morgan,Pulmonology,43209
+P0099,Michelle Warren,13,Female,Asthma,2025-12-18,2025-12-19,Dr. White,Pulmonology,62378
+P0100,Leonard Golden,53,Male,Heart Disease,2025-02-12,2025-02-23,Dr. Reed,Cardiology,62087
+P0101,Jordan Flynn,48,Male,Hypertension,2024-01-27,2024-01-28,Dr. Jones,Cardiology,45969
+P0102,Joe Lucas,60,Male,Pneumonia,2025-06-16,2025-06-29,Dr. Maxwell,Pulmonology,118983
+P0103,Steven Flowers,42,Female,Hypertension,2024-06-17,2024-06-28,Dr. Brooks,Cardiology,45183
+P0104,Jennifer Huynh,15,Female,Pneumonia,2025-04-21,2025-04-25,Dr. Larsen,Pulmonology,28007
+P0105,Daniel Berg,58,Female,Asthma,2024-12-02,2024-12-11,Dr. Raymond,Pulmonology,78876
+P0106,Mrs. Maria Bennett MD,17,Female,Migraine,2024-08-06,2024-08-08,Dr. Smith,Neurology,114463
+P0107,Shawn Kim,70,Female,Pneumonia,2025-11-11,2025-11-22,Dr. Hall,Pulmonology,127107
+P0108,Emily Davis,37,Male,Pneumonia,2025-12-14,2025-12-15,Dr. Smith,Pulmonology,119623
+P0109,Michael Knight,12,Male,Migraine,2024-05-29,2024-06-09,Dr. Dunn,Neurology,118127
+P0110,Michael Young,69,Male,Typhoid,2024-08-15,2024-08-17,Dr. Reyes,General Medicine,65439
+P0111,Jordan Velazquez,61,Male,Hypertension,2024-02-05,2024-02-13,Dr. Taylor,Cardiology,37011
+P0112,Michael Lara,56,Female,Arthritis,2024-04-10,2024-04-13,Dr. Allen,Orthopedics,68877
+P0113,Nicole Spencer,47,Male,COVID-19,2024-08-11,2024-08-16,Dr. Evans,General Medicine,59456
+P0114,Gregory Leach,74,Male,Hypertension,2024-09-15,2024-09-29,Dr. Young,Cardiology,19783
+P0115,Regina Ortiz,60,Female,COVID-19,2025-06-16,2025-06-19,Dr. Campbell,General Medicine,30618
+P0116,Anthony Hernandez,40,Male,Dengue,2025-04-12,2025-04-24,Dr. Jensen,General Medicine,49169
+P0117,Heather Miller,25,Female,Arthritis,2025-12-06,2025-12-19,Dr. Kim,Orthopedics,94154
+P0118,William Anderson,41,Female,Migraine,2024-05-05,2024-05-14,Dr. Thomas,Neurology,100918
+P0119,Stephanie Boyle,45,Male,Migraine,2024-01-25,2024-02-06,Dr. Brewer,Neurology,78451
+P0120,John Jones,57,Male,Diabetes,2024-05-28,2024-06-05,Dr. Blevins,Endocrinology,123456
+P0121,Misty Melendez,71,Male,Pneumonia,2024-11-04,2024-11-17,Dr. Flores,Pulmonology,76721
+P0122,Michaela Carpenter,59,Female,Typhoid,2025-12-24,2026-01-02,Dr. Pruitt,General Medicine,105189
+P0123,Margaret West,14,Female,Typhoid,2024-06-19,2024-07-03,Dr. Shepherd,General Medicine,81827
+P0124,Ashley Stanley,25,Male,Typhoid,2025-11-16,2025-11-28,Dr. Cook,General Medicine,37443
+P0125,Michael Ramirez,1,Male,Hypertension,2024-08-14,2024-08-25,Dr. Cummings,Cardiology,42706
+P0126,Lee Mitchell,1,Female,COVID-19,2024-03-14,2024-03-29,Dr. Oliver,General Medicine,66729
+P0127,Lori Gibson,77,Male,Migraine,2025-08-17,2025-08-23,Dr. Anderson,Neurology,57229
+P0128,Brian Miller,8,Male,Pneumonia,2024-04-24,2024-04-25,Dr. Ramirez,Pulmonology,44275
+P0129,Kenneth Bender,11,Male,Arthritis,2025-01-11,2025-01-15,Dr. Sanders,Orthopedics,19110
+P0130,John Montgomery,10,Female,Typhoid,2024-11-20,2024-11-21,Dr. Figueroa,General Medicine,144476
+P0131,Dr. Jordan Jones,5,Female,Pneumonia,2025-06-15,2025-06-16,Dr. Stephenson,Pulmonology,59365
+P0132,Eric Foster,86,Male,COVID-19,2024-07-12,2024-07-24,Dr. Hoover,General Medicine,7346
+P0133,Jamie Thompson,75,Female,Dengue,2024-12-06,2024-12-08,Dr. Christensen,General Medicine,112805
+P0134,Taylor Chan,88,Male,Asthma,2024-02-03,2024-02-12,Dr. Green,Pulmonology,24400
+P0135,Sarah Wallace,76,Female,Diabetes,2024-06-11,2024-06-21,Dr. Mora,Endocrinology,56442
+P0136,Taylor Nunez,46,Male,Pneumonia,2025-05-15,2025-05-24,Dr. Whitaker,Pulmonology,97859
+P0137,Sandra Taylor,31,Male,Asthma,2024-05-25,2024-05-29,Dr. Palmer,Pulmonology,61777
+P0138,Dillon Rogers,59,Female,Diabetes,2024-07-21,2024-07-30,Dr. Franklin,Endocrinology,105216
+P0139,Lisa Roberts,73,Male,Pneumonia,2025-01-28,2025-02-07,Dr. Martinez,Pulmonology,14187
+P0140,Elaine Lee,37,Male,Pneumonia,2024-07-05,2024-07-13,Dr. Paul,Pulmonology,26156
+P0141,Mrs. Christy Martin,9,Female,Typhoid,2025-01-07,2025-01-10,Dr. Flynn,General Medicine,139613
+P0142,Donna Adkins,74,Male,Dengue,2025-07-31,2025-08-13,Dr. Perez,General Medicine,40588
+P0143,Christian Gray,16,Female,Pneumonia,2025-10-05,2025-10-18,Dr. Wade,Pulmonology,42617
+P0144,Edward Wright,65,Male,Diabetes,2025-08-07,2025-08-19,Dr. Bowman,Endocrinology,76695
+P0145,John Johnston,71,Female,Typhoid,2024-04-30,2024-05-02,Dr. Walter,General Medicine,61132
+P0146,Robert Patel,79,Male,Typhoid,2024-05-11,2024-05-25,Dr. Gutierrez,General Medicine,79429
+P0147,James Russell,87,Female,Arthritis,2024-09-05,2024-09-14,Dr. Reed,Orthopedics,120901
+P0148,Ashley Poole,27,Male,Asthma,2024-05-26,2024-05-29,Dr. Johnson,Pulmonology,47428
+P0149,Patrick Gordon,26,Female,Hypertension,2024-02-09,2024-02-24,Dr. Hill,Cardiology,22961
+P0150,Steven Young DVM,82,Male,Pneumonia,2024-04-21,2024-05-02,Dr. Owens,Pulmonology,122046
+P0151,John Burton,29,Male,Asthma,2024-09-18,2024-09-20,Dr. Stephens,Pulmonology,133516
+P0152,Melissa Gonzalez,27,Female,Heart Disease,2024-06-28,2024-07-09,Dr. Proctor,Cardiology,65240
+P0153,Chad Costa,46,Male,Heart Disease,2025-01-02,2025-01-05,Dr. Burgess,Cardiology,134348
+P0154,Thomas Henry,90,Male,Hypertension,2025-03-23,2025-03-24,Dr. Dawson,Cardiology,97642
+P0155,Robert Butler,49,Female,Migraine,2025-06-26,2025-07-06,Dr. Smith,Neurology,94050
+P0156,Jacqueline Booth,7,Female,Diabetes,2024-07-19,2024-08-03,Dr. Flores,Endocrinology,143065
+P0157,Catherine Lopez,36,Female,Typhoid,2025-09-11,2025-09-25,Dr. Lopez,General Medicine,34274
+P0158,Adam Brady,61,Female,Heart Disease,2024-03-17,2024-03-30,Dr. Pierce,Cardiology,22684
+P0159,Brian Mckee,52,Male,Diabetes,2025-11-08,2025-11-13,Dr. Conner,Endocrinology,138360
+P0160,Daniel Cole,1,Male,COVID-19,2025-06-10,2025-06-20,Dr. Powell,General Medicine,58070
+P0161,Chelsea Dawson,13,Male,Heart Disease,2024-07-13,2024-07-26,Dr. Carter,Cardiology,47814
+P0162,Mark Miller,59,Male,Heart Disease,2025-09-12,2025-09-24,Dr. Cooper,Cardiology,34553
+P0163,Steven Douglas,8,Male,Heart Disease,2024-06-22,2024-06-25,Dr. Mitchell,Cardiology,50239
+P0164,Alejandro Flores,48,Male,Diabetes,2025-02-02,2025-02-10,Dr. Wilson,Endocrinology,83523
+P0165,Mr. John Jones,58,Female,Heart Disease,2024-08-16,2024-08-20,Dr. Lynch,Cardiology,44094
+P0166,Adrienne Foster,58,Female,Typhoid,2024-05-01,2024-05-10,Dr. Weiss,General Medicine,95864
+P0167,Joseph Nelson,22,Male,Typhoid,2025-01-05,2025-01-15,Dr. Chavez,General Medicine,119601
+P0168,Diane Moore,38,Male,Asthma,2024-01-03,2024-01-05,Dr. Ferguson,Pulmonology,51313
+P0169,Amy Elliott,90,Male,Hypertension,2025-07-11,2025-07-23,Dr. Weeks,Cardiology,38405
+P0170,Daniel Harris,73,Male,COVID-19,2025-01-09,2025-01-10,Dr. Soto,General Medicine,29863
+P0171,Jose Anderson,9,Male,Arthritis,2024-05-24,2024-05-29,Dr. Wilson,Orthopedics,128187
+P0172,Melinda Rodriguez,53,Female,Arthritis,2025-01-04,2025-01-13,Dr. Buckley,Orthopedics,142645
+P0173,Curtis Weaver,64,Female,Pneumonia,2025-05-20,2025-06-04,Dr. Moore,Pulmonology,127290
+P0174,Janice Clay,48,Female,Diabetes,2025-03-24,2025-03-25,Dr. Mcintyre,Endocrinology,20616
+P0175,Corey Cook,82,Female,Pneumonia,2024-04-18,2024-04-23,Dr. Anderson,Pulmonology,58434
+P0176,David Ochoa,57,Male,COVID-19,2024-03-24,2024-03-27,Dr. Hull,General Medicine,76833
+P0177,Heather Jones,18,Male,Heart Disease,2025-03-26,2025-04-09,Dr. Cooper,Cardiology,101611
+P0178,Dr. Jesse Parker,44,Female,Dengue,2024-08-20,2024-08-30,Dr. Snyder,General Medicine,86476
+P0179,Nicholas Quinn,60,Female,COVID-19,2024-07-04,2024-07-17,Dr. Cooper,General Medicine,14549
+P0180,Shawn Mitchell,73,Male,Dengue,2025-12-21,2025-12-25,Dr. Whitaker,General Medicine,96069
+P0181,Susan Castro,20,Female,Heart Disease,2024-05-24,2024-06-04,Dr. Meyer,Cardiology,129105
+P0182,Kelsey Williams,85,Female,Migraine,2024-07-25,2024-08-05,Dr. Lucas,Neurology,108985
+P0183,Dominique Wolf,90,Male,Hypertension,2025-08-24,2025-08-27,Dr. Black,Cardiology,6534
+P0184,Alyssa Miller,31,Male,Dengue,2025-07-29,2025-07-30,Dr. Johnson,General Medicine,75895
+P0185,Andrew Gordon,24,Female,Arthritis,2024-09-11,2024-09-16,Dr. Ortiz,Orthopedics,108451
+P0186,Timothy Nolan,44,Male,Migraine,2024-01-08,2024-01-19,Dr. Sparks,Neurology,111435
+P0187,Ryan Thornton,52,Male,Migraine,2025-05-04,2025-05-16,Dr. Burke,Neurology,111707
+P0188,Ashlee Mathis,5,Female,Arthritis,2025-02-01,2025-02-05,Dr. Scott,Orthopedics,101224
+P0189,Joseph Morris,63,Female,Typhoid,2025-01-18,2025-01-20,Dr. Harris,General Medicine,73179
+P0190,Kayla Smith,36,Female,Diabetes,2025-07-30,2025-08-11,Dr. King,Endocrinology,119121
+P0191,Kimberly Davis DDS,44,Female,Hypertension,2024-06-02,2024-06-09,Dr. Price,Cardiology,48476
+P0192,Jason Turner,34,Female,Pneumonia,2025-09-22,2025-10-03,Dr. Kaufman,Pulmonology,31721
+P0193,Michelle Doyle,12,Male,Arthritis,2025-08-28,2025-09-08,Dr. Burnett,Orthopedics,87250
+P0194,Daniel Goodman,86,Female,Hypertension,2025-11-23,2025-11-30,Dr. Johnson,Cardiology,39168
+P0195,James Gray,28,Male,Typhoid,2024-11-25,2024-12-05,Dr. Farrell,General Medicine,15775
+P0196,Aaron Henderson,49,Male,Diabetes,2024-06-07,2024-06-15,Dr. Romero,Endocrinology,148898
+P0197,Lori Ortiz,51,Male,Dengue,2025-05-11,2025-05-12,Dr. Burns,General Medicine,94354
+P0198,William Woods,35,Male,Migraine,2025-01-02,2025-01-03,Dr. Fox,Neurology,35909
+P0199,Sydney Hall,22,Male,Dengue,2025-06-12,2025-06-14,Dr. Martin,General Medicine,81821
+P0200,Nicholas Navarro,43,Male,Asthma,2025-04-08,2025-04-17,Dr. Jones,Pulmonology,11537
+P0201,Michele Burke,65,Male,Arthritis,2024-11-30,2024-12-15,Dr. Huffman,Orthopedics,98157
+P0202,Eric Hernandez,41,Male,Pneumonia,2024-04-16,2024-04-24,Dr. Scott,Pulmonology,50984
+P0203,Ronald Curtis,58,Female,Hypertension,2024-08-21,2024-08-28,Dr. Kirby,Cardiology,68653
+P0204,Carlos Rodriguez,3,Male,Diabetes,2025-10-03,2025-10-12,Dr. Horne,Endocrinology,49221
+P0205,Melanie Kennedy,39,Female,Diabetes,2025-05-29,2025-06-10,Dr. Powell,Endocrinology,78525
+P0206,Javier Morales,89,Male,Heart Disease,2025-08-30,2025-09-13,Dr. Martinez,Cardiology,137363
+P0207,Deanna Taylor,83,Male,Typhoid,2024-09-23,2024-09-28,Dr. Todd,General Medicine,89442
+P0208,Megan Rojas,31,Female,Heart Disease,2025-05-04,2025-05-14,Dr. Espinoza,Cardiology,128496
+P0209,Natalie Williams,23,Female,Dengue,2025-05-29,2025-06-13,Dr. Washington,General Medicine,42416
+P0210,Corey West,63,Female,Asthma,2025-12-01,2025-12-07,Dr. Bradley,Pulmonology,47917
+P0211,Jennifer Rhodes,17,Female,Migraine,2024-02-26,2024-03-11,Dr. Bailey,Neurology,91596
+P0212,Maria Matthews,10,Male,Arthritis,2024-11-20,2024-11-29,Dr. Gates,Orthopedics,114484
+P0213,Sherri Small,26,Male,Pneumonia,2024-08-03,2024-08-04,Dr. Ray,Pulmonology,16109
+P0214,Robert Phelps,80,Male,Diabetes,2024-05-07,2024-05-20,Dr. Crosby,Endocrinology,47767
+P0215,Dr. Zachary Thomas,3,Female,Heart Disease,2024-01-27,2024-01-28,Dr. Lopez,Cardiology,143799
+P0216,Michael Fernandez,43,Female,Migraine,2025-05-29,2025-06-08,Dr. Curtis,Neurology,73346
+P0217,Omar Small,30,Female,Heart Disease,2024-03-08,2024-03-17,Dr. Santos,Cardiology,148454
+P0218,Victor Walker,21,Female,Hypertension,2024-06-02,2024-06-05,Dr. Alvarado,Cardiology,23712
+P0219,Joseph Burgess,48,Male,Pneumonia,2025-09-30,2025-10-01,Dr. Hardin,Pulmonology,83938
+P0220,Michael Fox,66,Male,Asthma,2025-09-16,2025-10-01,Dr. Whitaker,Pulmonology,65009
+P0221,Anthony Mcdonald,62,Male,Heart Disease,2024-09-24,2024-09-28,Dr. Adams,Cardiology,89296
+P0222,Anthony Jennings,4,Female,Pneumonia,2024-02-09,2024-02-10,Dr. Olson,Pulmonology,38611
+P0223,Aaron Hughes,86,Female,Heart Disease,2025-05-24,2025-05-31,Dr. Gutierrez,Cardiology,124979
+P0224,Leslie Pierce,13,Female,Diabetes,2025-09-09,2025-09-11,Dr. Johnson,Endocrinology,66883
+P0225,Victoria Rosales,44,Male,Hypertension,2025-11-14,2025-11-22,Dr. Doyle,Cardiology,126629
+P0226,Jeffrey Mcintyre,26,Female,COVID-19,2024-06-22,2024-06-30,Dr. Walker,General Medicine,100992
+P0227,Marco Brown,43,Female,Asthma,2025-01-05,2025-01-12,Dr. Mendez,Pulmonology,114885
+P0228,Sara Cervantes,51,Female,Migraine,2024-12-28,2025-01-09,Dr. Ellis,Neurology,80126
+P0229,Frank Garcia,33,Female,Pneumonia,2025-07-17,2025-08-01,Dr. James,Pulmonology,146990
+P0230,Zachary Sawyer,56,Male,Asthma,2024-01-30,2024-02-12,Dr. Huynh,Pulmonology,90515
+P0231,Mary Sherman,77,Male,Heart Disease,2025-05-16,2025-05-22,Dr. Patterson,Cardiology,85843
+P0232,Steven Boyd,63,Female,Heart Disease,2024-09-18,2024-09-29,Dr. Edwards,Cardiology,145901
+P0233,Michelle Gutierrez,23,Female,COVID-19,2024-09-14,2024-09-25,Dr. Alvarez,General Medicine,124938
+P0234,Sonia Shelton,19,Male,Hypertension,2024-03-30,2024-04-05,Dr. Miranda,Cardiology,124594
+P0235,Karina Ramirez,41,Female,Diabetes,2025-05-05,2025-05-17,Dr. Smith,Endocrinology,104355
+P0236,Aaron Robinson,70,Male,Hypertension,2025-08-02,2025-08-10,Dr. Nguyen,Cardiology,134742
+P0237,Kimberly Kerr,39,Female,Pneumonia,2024-08-13,2024-08-18,Dr. Villa,Pulmonology,20530
+P0238,Margaret Hart,50,Male,Migraine,2024-01-17,2024-01-25,Dr. Salazar,Neurology,99034
+P0239,Richard Reed,7,Female,Heart Disease,2025-05-12,2025-05-25,Dr. Cunningham,Cardiology,41088
+P0240,John Peters,26,Female,COVID-19,2024-03-13,2024-03-19,Dr. Cox,General Medicine,64302
+P0241,Mrs. Cassandra Miller,26,Male,Migraine,2024-08-14,2024-08-20,Dr. Heath,Neurology,145802
+P0242,Shawn Blair,28,Female,COVID-19,2024-10-22,2024-10-24,Dr. Ritter,General Medicine,117196
+P0243,Paul Davis,24,Male,Hypertension,2024-08-18,2024-08-31,Dr. Williams,Cardiology,24613
+P0244,Nicole Obrien,41,Female,Pneumonia,2025-06-11,2025-06-26,Dr. Cochran,Pulmonology,79859
+P0245,Suzanne Frazier,36,Male,Typhoid,2025-03-17,2025-03-27,Dr. Nichols,General Medicine,31904
+P0246,Whitney Williams,7,Male,Heart Disease,2024-02-29,2024-03-01,Dr. Powers,Cardiology,74234
+P0247,Danielle Brown,27,Female,COVID-19,2024-04-17,2024-05-02,Dr. Allen,General Medicine,52402
+P0248,Lauren Stewart,8,Male,Dengue,2025-09-02,2025-09-05,Dr. Hutchinson,General Medicine,22104
+P0249,Jennifer Jackson,15,Female,Migraine,2025-03-22,2025-04-04,Dr. Price,Neurology,74530
+P0250,Trevor Nunez,35,Female,Migraine,2024-10-05,2024-10-16,Dr. Velazquez,Neurology,99256
+P0251,Darren Brown,83,Male,Hypertension,2025-10-14,2025-10-29,Dr. Orozco,Cardiology,124167
+P0252,Allison Smith,70,Female,Arthritis,2025-04-14,2025-04-16,Dr. Powell,Orthopedics,81211
+P0253,Richard Berry,33,Male,Pneumonia,2025-11-30,2025-12-02,Dr. Davis,Pulmonology,74186
+P0254,Maria Church,18,Male,Asthma,2024-11-12,2024-11-26,Dr. Jackson,Pulmonology,87114
+P0255,Amanda Wright,27,Male,COVID-19,2025-08-24,2025-09-03,Dr. Boone,General Medicine,78165
+P0256,Christie Foster,47,Female,Pneumonia,2025-07-16,2025-07-19,Dr. Baldwin,Pulmonology,46544
+P0257,Alexandria Moran,20,Female,Heart Disease,2024-12-27,2025-01-02,Dr. Robinson,Cardiology,140009
+P0258,Barry Acosta,24,Male,Arthritis,2025-11-28,2025-12-10,Dr. Chavez,Orthopedics,68756
+P0259,Amanda Mcintosh,71,Female,Hypertension,2025-06-19,2025-06-24,Dr. Blevins,Cardiology,49347
+P0260,Kevin Hopkins,6,Female,Asthma,2024-08-17,2024-08-25,Dr. Brown,Pulmonology,41335
+P0261,Ronald Ramirez,12,Male,Pneumonia,2025-07-09,2025-07-20,Dr. Francis,Pulmonology,66809
+P0262,Paula Martinez,34,Male,Hypertension,2024-12-26,2025-01-04,Dr. Chambers,Cardiology,121496
+P0263,Luke Barrera,40,Female,Hypertension,2024-06-02,2024-06-12,Dr. Brown,Cardiology,120971
+P0264,Penny Brown,83,Male,Diabetes,2024-05-28,2024-05-31,Dr. Morgan,Endocrinology,121624
+P0265,Maria White,17,Female,Diabetes,2024-11-13,2024-11-27,Dr. Brady,Endocrinology,24347
+P0266,John Neal,29,Male,Diabetes,2025-03-09,2025-03-22,Dr. Salazar,Endocrinology,73346
+P0267,Deborah Velez,2,Male,Hypertension,2025-02-18,2025-03-04,Dr. Bean,Cardiology,63566
+P0268,Ashley Chaney,14,Male,Heart Disease,2024-02-11,2024-02-13,Dr. Rogers,Cardiology,18864
+P0269,Jacob Jefferson,53,Male,Heart Disease,2025-01-29,2025-02-05,Dr. Brown,Cardiology,54593
+P0270,Tina Thomas,7,Female,Diabetes,2025-02-03,2025-02-16,Dr. White,Endocrinology,31965
+P0271,Stacey Burnett,25,Female,Arthritis,2025-08-23,2025-08-29,Dr. Sullivan,Orthopedics,17774
+P0272,Chad Garcia,77,Female,Diabetes,2025-09-20,2025-09-24,Dr. Collins,Endocrinology,74783
+P0273,Daniel Taylor,86,Male,Typhoid,2024-04-11,2024-04-24,Dr. Davis,General Medicine,62471
+P0274,Willie Farley,45,Female,COVID-19,2024-10-28,2024-11-08,Dr. Hernandez,General Medicine,5685
+P0275,Brandon Barnes,36,Male,COVID-19,2025-12-06,2025-12-07,Dr. Johnson,General Medicine,52318
+P0276,Charles Booth,26,Male,Hypertension,2025-08-14,2025-08-19,Dr. Cook,Cardiology,52122
+P0277,Jeffrey Brown,50,Female,Pneumonia,2025-05-20,2025-05-30,Dr. Alexander,Pulmonology,85639
+P0278,Lawrence Roach,76,Male,Hypertension,2024-11-04,2024-11-17,Dr. Davis,Cardiology,46580
+P0279,Laura Chaney,29,Male,Hypertension,2024-01-14,2024-01-16,Dr. Walker,Cardiology,117199
+P0280,Lauren Boyd,72,Male,Pneumonia,2025-05-18,2025-05-22,Dr. Martin,Pulmonology,68878
+P0281,Morgan Rios,29,Female,COVID-19,2025-05-19,2025-05-20,Dr. Villegas,General Medicine,134611
+P0282,Gregory Clark,26,Male,Migraine,2024-06-13,2024-06-20,Dr. Sanchez,Neurology,36320
+P0283,Kimberly Sanchez,62,Male,Diabetes,2025-07-03,2025-07-14,Dr. Sandoval,Endocrinology,100135
+P0284,Michael Ward III,80,Female,Diabetes,2025-03-12,2025-03-17,Dr. Cooke,Endocrinology,72231
+P0285,Megan Jenkins,5,Male,Heart Disease,2024-08-08,2024-08-10,Dr. Harvey,Cardiology,74076
+P0286,Stephen Castaneda,47,Female,COVID-19,2024-10-13,2024-10-20,Dr. Lloyd,General Medicine,127717
+P0287,Bryan Phillips,36,Male,Migraine,2025-08-18,2025-08-30,Dr. Gordon,Neurology,58269
+P0288,David Hamilton,11,Female,Hypertension,2025-07-31,2025-08-10,Dr. Walker,Cardiology,144757
+P0289,Michael Williams,44,Female,Asthma,2024-07-25,2024-07-26,Dr. Sawyer,Pulmonology,30307
+P0290,Kayla Smith,39,Female,Arthritis,2025-11-14,2025-11-23,Dr. Williamson,Orthopedics,106949
+P0291,Dana Crawford,53,Female,Dengue,2024-09-01,2024-09-13,Dr. Powell,General Medicine,116223
+P0292,Justin Bennett,38,Female,Dengue,2024-01-05,2024-01-16,Dr. Huff,General Medicine,33039
+P0293,Teresa Guzman,37,Male,Arthritis,2025-12-03,2025-12-13,Dr. Bond,Orthopedics,90919
+P0294,Brooke Pace,86,Female,Heart Disease,2025-07-27,2025-07-29,Dr. Valdez,Cardiology,79498
+P0295,Matthew Johnson,87,Female,Hypertension,2025-12-08,2025-12-12,Dr. Jones,Cardiology,11948
+P0296,Jennifer Mullen,79,Female,Hypertension,2025-08-27,2025-09-10,Dr. Johnson,Cardiology,132877
+P0297,Nicholas Brown,13,Male,Typhoid,2024-10-06,2024-10-09,Dr. Leonard,General Medicine,58075
+P0298,Christopher Ryan,48,Male,Dengue,2025-05-12,2025-05-19,Dr. Delacruz,General Medicine,55234
+P0299,Carrie Mccarthy,25,Male,Typhoid,2024-08-27,2024-09-11,Dr. Martinez,General Medicine,31165
+P0300,Peter Williams,79,Male,Diabetes,2025-01-31,2025-02-02,Dr. Davis,Endocrinology,32616
+P0301,Carolyn Berry,27,Female,Heart Disease,2025-06-24,2025-07-07,Dr. Wright,Cardiology,88534
+P0302,Jim Trujillo,82,Male,Arthritis,2025-11-27,2025-12-10,Dr. Gates,Orthopedics,99161
+P0303,Christopher Gilbert,42,Female,Pneumonia,2025-04-28,2025-05-03,Dr. Anderson,Pulmonology,35642
+P0304,George Johnson,75,Male,Diabetes,2025-07-31,2025-08-15,Dr. King,Endocrinology,94092
+P0305,Donald Lopez,22,Female,COVID-19,2024-10-27,2024-11-05,Dr. Martinez,General Medicine,132048
+P0306,Derek Hensley,78,Male,Hypertension,2025-09-17,2025-09-18,Dr. Harris,Cardiology,119227
+P0307,Erica Lynch,31,Male,Migraine,2024-08-31,2024-09-13,Dr. Avila,Neurology,31419
+P0308,Kenneth Gonzalez,50,Female,Typhoid,2025-07-18,2025-08-02,Dr. Buck,General Medicine,58882
+P0309,Lisa Schroeder,47,Female,Pneumonia,2025-08-04,2025-08-14,Dr. Adkins,Pulmonology,23602
+P0310,Nicole Calhoun,88,Female,Arthritis,2025-10-06,2025-10-15,Dr. Hess,Orthopedics,33105
+P0311,Justin Francis,57,Male,Asthma,2024-11-12,2024-11-23,Dr. Ford,Pulmonology,50822
+P0312,Nicole Reynolds,22,Male,Hypertension,2025-11-27,2025-12-03,Dr. Baxter,Cardiology,73174
+P0313,Christopher Hopkins,71,Male,Pneumonia,2025-10-09,2025-10-10,Dr. Clark,Pulmonology,133967
+P0314,Jeffrey Nelson,56,Male,Hypertension,2024-05-18,2024-05-29,Dr. Townsend,Cardiology,26258
+P0315,Timothy Santos,60,Female,Heart Disease,2024-05-20,2024-06-04,Dr. Evans,Cardiology,33469
+P0316,Vanessa Robinson,57,Male,Pneumonia,2024-08-31,2024-09-02,Dr. Wolfe,Pulmonology,132774
+P0317,Donna Logan,52,Male,Hypertension,2024-06-06,2024-06-09,Dr. Martinez,Cardiology,81729
+P0318,Sharon Powell,61,Male,Heart Disease,2024-02-01,2024-02-06,Dr. Hill,Cardiology,15841
+P0319,Ashley Harrison,81,Female,Asthma,2024-05-26,2024-06-07,Dr. Rosales,Pulmonology,74018
+P0320,Patricia Bonilla,1,Female,Migraine,2024-07-21,2024-08-02,Dr. Alexander,Neurology,57810
+P0321,Sean Jones,80,Male,COVID-19,2024-11-27,2024-12-02,Dr. Perez,General Medicine,5558
+P0322,Jessica Allen,13,Female,Dengue,2024-03-18,2024-03-28,Dr. Rose,General Medicine,35872
+P0323,Joan Frazier,1,Male,Arthritis,2025-04-10,2025-04-15,Dr. Miller,Orthopedics,64399
+P0324,Luis Schmidt,81,Male,Pneumonia,2024-10-08,2024-10-22,Dr. Payne,Pulmonology,62581
+P0325,John White,72,Female,Typhoid,2024-08-21,2024-08-25,Dr. Hughes,General Medicine,144170
+P0326,Gerald Chen,44,Female,COVID-19,2024-07-01,2024-07-06,Dr. Meyer,General Medicine,104700
+P0327,Paul Ramos,13,Female,Diabetes,2025-11-08,2025-11-21,Dr. Colon,Endocrinology,32598
+P0328,Melissa Hall,22,Female,Diabetes,2025-10-20,2025-10-23,Dr. Lang,Endocrinology,21082
+P0329,Yvette Martinez,72,Male,Hypertension,2025-06-22,2025-07-07,Dr. Armstrong,Cardiology,21917
+P0330,Alexander Jones,27,Male,Dengue,2024-04-07,2024-04-11,Dr. Cook,General Medicine,57934
+P0331,Ryan Jones,12,Female,Typhoid,2025-11-18,2025-11-24,Dr. Morales,General Medicine,138403
+P0332,Darrell Johnson,31,Male,COVID-19,2024-06-21,2024-07-06,Dr. Davila,General Medicine,27859
+P0333,Lisa Robinson,80,Female,Heart Disease,2025-09-29,2025-10-13,Dr. Jones,Cardiology,87714
+P0334,Loretta Mitchell,44,Male,Migraine,2025-12-25,2025-12-26,Dr. Padilla,Neurology,34577
+P0335,Chris Conner,86,Female,Arthritis,2025-08-05,2025-08-17,Dr. Blackburn,Orthopedics,46590
+P0336,Aaron Singh,51,Male,Typhoid,2025-11-03,2025-11-11,Dr. Cooper,General Medicine,76757
+P0337,Margaret Goodwin,9,Female,Typhoid,2024-08-13,2024-08-21,Dr. Bryant,General Medicine,84094
+P0338,Angel Griffith,21,Female,Heart Disease,2025-07-25,2025-08-06,Dr. Ramsey,Cardiology,115542
+P0339,Barbara Smith,50,Male,Arthritis,2024-06-11,2024-06-13,Dr. Miller,Orthopedics,20775
+P0340,Kelly Hall,66,Female,COVID-19,2025-01-04,2025-01-10,Dr. Booth,General Medicine,12330
+P0341,Jenna Estes,14,Female,Diabetes,2025-05-12,2025-05-27,Dr. Spence,Endocrinology,84202
+P0342,Mr. Jeremy Graves MD,36,Male,Typhoid,2025-06-22,2025-06-27,Dr. Blackwell,General Medicine,134269
+P0343,Cody Fisher,70,Male,Diabetes,2025-11-19,2025-12-04,Dr. Rodriguez,Endocrinology,87167
+P0344,Carrie Williams,21,Male,Asthma,2025-03-16,2025-03-30,Dr. Shepherd,Pulmonology,117934
+P0345,Robert Hall,11,Male,Typhoid,2025-10-05,2025-10-12,Dr. Williams,General Medicine,145445
+P0346,Jamie Zuniga,27,Female,Typhoid,2024-07-18,2024-07-30,Dr. Gray,General Medicine,140874
+P0347,Shelly Moon,38,Male,Asthma,2024-08-12,2024-08-19,Dr. Bradford,Pulmonology,115733
+P0348,Tammy Johnston,11,Male,Typhoid,2025-01-22,2025-02-04,Dr. Stewart,General Medicine,129987
+P0349,Samuel Miller,2,Male,Asthma,2024-09-12,2024-09-27,Dr. Beck,Pulmonology,65552
+P0350,Kim Brennan,6,Male,COVID-19,2025-03-05,2025-03-14,Dr. Robinson,General Medicine,51671
+P0351,Barbara Miller,88,Male,Migraine,2024-01-22,2024-01-26,Dr. Nichols,Neurology,61457
+P0352,Heather Lewis,18,Female,Migraine,2024-06-09,2024-06-23,Dr. Pitts,Neurology,76078
+P0353,Eric Kaufman,21,Male,Asthma,2024-01-13,2024-01-16,Dr. Miller,Pulmonology,15417
+P0354,Taylor Lopez MD,63,Female,Dengue,2024-04-22,2024-05-04,Dr. Sullivan,General Medicine,97419
+P0355,Brett Johnson,47,Male,Heart Disease,2025-12-12,2025-12-13,Dr. Hopkins,Cardiology,118609
+P0356,Danielle Reyes,6,Male,Arthritis,2025-09-28,2025-10-08,Dr. Griffith,Orthopedics,36213
+P0357,Lauren Fisher,80,Female,Asthma,2024-03-30,2024-04-11,Dr. Sanders,Pulmonology,104379
+P0358,Thomas King,76,Male,Migraine,2025-10-02,2025-10-17,Dr. Brown,Neurology,96776
+P0359,Tammy Jackson,41,Male,Diabetes,2025-05-25,2025-06-02,Dr. Davis,Endocrinology,88143
+P0360,Mrs. Deanna Chambers MD,9,Female,COVID-19,2024-08-04,2024-08-09,Dr. Hull,General Medicine,91685
+P0361,Juan Powell,82,Male,Pneumonia,2024-04-18,2024-04-25,Dr. Armstrong,Pulmonology,17607
+P0362,Nancy Farley,7,Male,Typhoid,2025-08-23,2025-08-27,Dr. Cuevas,General Medicine,35750
+P0363,Amanda George,22,Female,Asthma,2024-08-25,2024-09-03,Dr. Cunningham,Pulmonology,59712
+P0364,Anthony James,74,Female,Asthma,2025-11-05,2025-11-10,Dr. Barnett,Pulmonology,114888
+P0365,Kevin Roberson,27,Female,Asthma,2025-06-07,2025-06-11,Dr. Stokes,Pulmonology,36116
+P0366,Cynthia Hawkins,38,Male,Heart Disease,2025-03-08,2025-03-16,Dr. Day,Cardiology,72622
+P0367,Anne Peters,39,Male,Asthma,2025-04-13,2025-04-28,Dr. White,Pulmonology,16692
+P0368,Derek Reed,63,Male,Heart Disease,2024-12-07,2024-12-10,Dr. Bennett,Cardiology,99143
+P0369,Deborah Bennett,80,Female,Pneumonia,2024-03-08,2024-03-16,Dr. Schwartz,Pulmonology,90999
+P0370,Whitney Woods MD,62,Female,Diabetes,2025-02-01,2025-02-12,Dr. Oconnor,Endocrinology,61149
+P0371,Theodore Hensley,84,Female,Migraine,2025-05-06,2025-05-16,Dr. Tran,Neurology,31392
+P0372,Rachel Burns,11,Female,Migraine,2024-03-31,2024-04-08,Dr. Boone,Neurology,64313
+P0373,Laura Miller,17,Female,Typhoid,2024-05-27,2024-06-04,Dr. Miller,General Medicine,101600
+P0374,Michael Franco,33,Female,Asthma,2025-05-17,2025-05-18,Dr. Johnson,Pulmonology,141372
+P0375,Brittany Herring,55,Male,Pneumonia,2024-06-18,2024-06-28,Dr. Alexander,Pulmonology,85497
+P0376,Aaron Cooley,89,Female,Diabetes,2025-01-18,2025-01-29,Dr. Casey,Endocrinology,22215
+P0377,Brenda Carter,7,Female,Hypertension,2025-03-03,2025-03-13,Dr. George,Cardiology,67738
+P0378,John Fischer,2,Male,Typhoid,2024-07-27,2024-08-03,Dr. Gallagher,General Medicine,26140
+P0379,Kenneth Hicks,23,Male,Dengue,2024-12-12,2024-12-17,Dr. Gonzalez,General Medicine,146516
+P0380,Ryan Jacobs,12,Male,Hypertension,2025-08-25,2025-09-09,Dr. Curry,Cardiology,32106
+P0381,Ryan Rodriguez,51,Female,Arthritis,2024-11-29,2024-12-05,Dr. Arnold,Orthopedics,52660
+P0382,Charles Phillips,68,Female,Diabetes,2025-05-20,2025-05-26,Dr. Flores,Endocrinology,86182
+P0383,Sean Cantu,65,Male,Heart Disease,2025-11-13,2025-11-25,Dr. Phillips,Cardiology,64748
+P0384,Jacob Martinez,47,Female,Hypertension,2025-11-06,2025-11-17,Dr. Montgomery,Cardiology,109207
+P0385,Mrs. Anna Norman,75,Male,Hypertension,2024-02-17,2024-02-22,Dr. Simmons,Cardiology,40508
+P0386,James Powell,63,Female,Diabetes,2025-12-26,2026-01-09,Dr. Tran,Endocrinology,109104
+P0387,Albert Sutton,2,Female,Migraine,2025-02-27,2025-03-03,Dr. Hayes,Neurology,64795
+P0388,Craig Wong,86,Male,Heart Disease,2025-05-24,2025-05-27,Dr. Kline,Cardiology,70707
+P0389,Michael Leon,68,Female,Asthma,2025-04-20,2025-04-26,Dr. Scott,Pulmonology,70400
+P0390,Tammy Bishop,2,Male,Hypertension,2024-03-27,2024-04-01,Dr. Carroll,Cardiology,137743
+P0391,Andrea Davis,64,Male,Asthma,2024-07-21,2024-08-05,Dr. Wilson,Pulmonology,132243
+P0392,Ashley Green,40,Female,Heart Disease,2024-11-01,2024-11-02,Dr. Mckinney,Cardiology,53608
+P0393,Barbara Parks,68,Female,Diabetes,2024-11-25,2024-12-09,Dr. Leonard,Endocrinology,103383
+P0394,Beverly Murray,12,Female,Hypertension,2024-08-31,2024-09-07,Dr. Robertson,Cardiology,13124
+P0395,Charles Flowers,9,Male,Heart Disease,2025-06-26,2025-07-04,Dr. Morrison,Cardiology,92772
+P0396,Kathleen Hayes,50,Male,COVID-19,2025-10-03,2025-10-10,Dr. Cooper,General Medicine,110069
+P0397,Mario Weeks,88,Female,Arthritis,2024-01-05,2024-01-12,Dr. Wilson,Orthopedics,135652
+P0398,Sarah Payne,82,Male,Arthritis,2024-08-03,2024-08-17,Dr. Brown,Orthopedics,41839
+P0399,Emily Edwards,5,Male,Hypertension,2024-05-20,2024-06-02,Dr. Phillips,Cardiology,133216
+P0400,Bianca Miranda,63,Female,Diabetes,2024-09-17,2024-09-27,Dr. Maynard,Endocrinology,24679
+P0401,Matthew Smith,59,Male,Migraine,2024-01-21,2024-01-28,Dr. Oconnor,Neurology,112748
+P0402,Jonathan Howard,11,Male,Pneumonia,2025-04-09,2025-04-10,Dr. Fritz,Pulmonology,17186
+P0403,Michael Griffin,5,Female,Asthma,2024-09-14,2024-09-20,Dr. Williams,Pulmonology,68391
+P0404,Catherine Lopez,38,Female,Heart Disease,2025-02-28,2025-03-04,Dr. Juarez,Cardiology,131702
+P0405,Michelle Lee,13,Male,Arthritis,2025-10-31,2025-11-04,Dr. Warren,Orthopedics,118865
+P0406,Randy Allen,30,Male,Diabetes,2025-02-03,2025-02-09,Dr. Young,Endocrinology,140222
+P0407,Valerie Hale,39,Female,Asthma,2024-11-11,2024-11-17,Dr. Dominguez,Pulmonology,51156
+P0408,Jennifer Hamilton,79,Male,Pneumonia,2024-05-14,2024-05-23,Dr. Dixon,Pulmonology,123250
+P0409,Maria Watts,1,Male,Pneumonia,2024-10-03,2024-10-17,Dr. Weaver,Pulmonology,68419
+P0410,Tanya Hernandez,46,Male,Pneumonia,2024-06-04,2024-06-10,Dr. Wright,Pulmonology,60834
+P0411,Christopher Wolf,69,Male,Diabetes,2025-05-28,2025-06-11,Dr. Adams,Endocrinology,56436
+P0412,Blake Stewart,33,Male,Heart Disease,2025-04-19,2025-04-30,Dr. Brandt,Cardiology,147874
+P0413,Gary Rangel,46,Female,Dengue,2024-03-17,2024-03-20,Dr. Blackburn,General Medicine,144677
+P0414,Darren Townsend,41,Male,Pneumonia,2025-10-12,2025-10-17,Dr. White,Pulmonology,29294
+P0415,Carolyn Russell,47,Female,Arthritis,2025-08-06,2025-08-07,Dr. Johnston,Orthopedics,106171
+P0416,Megan Wheeler,60,Male,Dengue,2024-03-11,2024-03-25,Dr. Wagner,General Medicine,142961
+P0417,Carl Martinez,21,Female,Diabetes,2025-06-16,2025-07-01,Dr. Andrews,Endocrinology,126188
+P0418,Michael Stone,79,Male,Hypertension,2024-02-25,2024-02-26,Dr. Woodard,Cardiology,92173
+P0419,Travis Simmons,69,Male,Arthritis,2025-10-27,2025-11-03,Dr. Lawrence,Orthopedics,130582
+P0420,Katherine Zamora,11,Female,Arthritis,2025-01-29,2025-02-08,Dr. Burns,Orthopedics,41859
+P0421,Jason Gardner,2,Male,Diabetes,2024-10-04,2024-10-08,Dr. Cardenas,Endocrinology,54622
+P0422,Jason Bean,65,Female,Hypertension,2024-11-04,2024-11-06,Dr. Ramos,Cardiology,92416
+P0423,Jason Burch,9,Female,COVID-19,2025-04-21,2025-04-24,Dr. Tran,General Medicine,60732
+P0424,Connie Lane,64,Male,Hypertension,2025-12-23,2026-01-05,Dr. Bauer,Cardiology,90524
+P0425,Matthew Bates,25,Female,Asthma,2024-01-02,2024-01-03,Dr. Hill,Pulmonology,89867
+P0426,Robert Ford,22,Female,Typhoid,2024-06-09,2024-06-14,Dr. Carroll,General Medicine,138924
+P0427,William Huerta,24,Male,Diabetes,2025-06-01,2025-06-09,Dr. Williamson,Endocrinology,43509
+P0428,Michelle Hall,28,Male,COVID-19,2024-12-29,2025-01-05,Dr. Smith,General Medicine,108135
+P0429,Jacob Cruz,90,Male,Asthma,2025-01-21,2025-02-03,Dr. Harris,Pulmonology,103292
+P0430,Andrew Mahoney,13,Female,Pneumonia,2025-06-10,2025-06-20,Dr. Brady,Pulmonology,147261
+P0431,Dylan Chase,77,Male,Pneumonia,2025-12-03,2025-12-12,Dr. Pacheco,Pulmonology,96426
+P0432,Jessica Williams,83,Male,Typhoid,2024-12-16,2024-12-28,Dr. Newton,General Medicine,31504
+P0433,Bernard Spears MD,14,Male,COVID-19,2024-05-08,2024-05-13,Dr. Ali,General Medicine,149195
+P0434,Eric Flores,38,Male,Pneumonia,2025-04-11,2025-04-16,Dr. Montgomery,Pulmonology,112031
+P0435,Tina Hicks,6,Male,Migraine,2024-10-24,2024-10-31,Dr. Sanders,Neurology,56160
+P0436,Willie Monroe,32,Female,Hypertension,2024-01-22,2024-01-29,Dr. Smith,Cardiology,22407
+P0437,Kaitlyn Lane,35,Male,Migraine,2024-11-15,2024-11-19,Dr. Fowler,Neurology,125081
+P0438,Mrs. Shannon Taylor,3,Male,Pneumonia,2024-04-04,2024-04-11,Dr. Newton,Pulmonology,77200
+P0439,Tiffany Sanchez,7,Male,Asthma,2024-12-11,2024-12-21,Dr. Woodward,Pulmonology,138362
+P0440,Kent Clark,27,Male,COVID-19,2025-10-13,2025-10-25,Dr. Smith,General Medicine,67900
+P0441,Lynn Patel,87,Male,Typhoid,2025-08-03,2025-08-17,Dr. Foster,General Medicine,146677
+P0442,Jonathan Peterson,46,Male,Hypertension,2024-06-17,2024-07-02,Dr. Miller,Cardiology,87361
+P0443,Zachary Kennedy MD,86,Male,Migraine,2025-09-17,2025-09-28,Dr. Smith,Neurology,97610
+P0444,David Walker,21,Female,Hypertension,2024-07-19,2024-07-28,Dr. Richardson,Cardiology,18695
+P0445,Steven Carlson,37,Female,Typhoid,2025-09-21,2025-10-05,Dr. Conley,General Medicine,81239
+P0446,Brian Hebert,60,Female,Dengue,2025-03-23,2025-04-05,Dr. Flynn,General Medicine,119119
+P0447,Amanda Jennings,80,Female,Dengue,2025-09-18,2025-09-23,Dr. Hanna,General Medicine,29875
+P0448,Amy Shepard,74,Male,Hypertension,2025-06-13,2025-06-18,Dr. Kirby,Cardiology,6671
+P0449,Patricia Henson,27,Male,Typhoid,2024-12-25,2025-01-09,Dr. Jones,General Medicine,125780
+P0450,Glenn Villa,79,Female,Pneumonia,2024-07-27,2024-08-03,Dr. Reeves,Pulmonology,43748
+P0451,Jessica Campbell,22,Female,Dengue,2024-10-16,2024-10-31,Dr. Osborne,General Medicine,6891
+P0452,Lindsey James,90,Male,Diabetes,2024-11-08,2024-11-20,Dr. Johnson,Endocrinology,113407
+P0453,Amanda Johnson,71,Male,Asthma,2024-06-29,2024-07-14,Dr. Morrison,Pulmonology,133866
+P0454,Danielle Pham,65,Male,COVID-19,2024-10-19,2024-10-30,Dr. Miller,General Medicine,76449
+P0455,Kara Horn,14,Female,Migraine,2024-11-16,2024-11-25,Dr. Rowe,Neurology,96164
+P0456,Rodney Carter,40,Female,Asthma,2024-11-23,2024-11-30,Dr. Pierce,Pulmonology,116651
+P0457,Ashley Norris,7,Female,Heart Disease,2024-01-31,2024-02-14,Dr. Sullivan,Cardiology,58407
+P0458,Andrea Rocha,44,Male,Diabetes,2024-02-02,2024-02-08,Dr. Jones,Endocrinology,44069
+P0459,Ashley Garner,82,Male,Typhoid,2025-08-01,2025-08-03,Dr. Baker,General Medicine,51912
+P0460,Richard Jones,27,Female,Typhoid,2024-12-03,2024-12-07,Dr. Coleman,General Medicine,61863
+P0461,Ronald Thomas,60,Male,COVID-19,2025-03-07,2025-03-14,Dr. Mercer,General Medicine,121457
+P0462,William Sloan,64,Female,Migraine,2024-03-29,2024-04-06,Dr. Miller,Neurology,18909
+P0463,John Perez,46,Male,COVID-19,2024-04-19,2024-05-02,Dr. Lewis,General Medicine,149801
+P0464,John Casey,77,Male,Typhoid,2024-05-08,2024-05-15,Dr. Garcia,General Medicine,48447
+P0465,Joshua Mosley,2,Female,COVID-19,2024-04-23,2024-04-29,Dr. Murphy,General Medicine,47940
+P0466,Michael Wolf,48,Male,Arthritis,2024-12-30,2025-01-09,Dr. Lowe,Orthopedics,130480
+P0467,Melinda Stark,73,Female,Hypertension,2025-09-19,2025-09-25,Dr. Edwards,Cardiology,146480
+P0468,Jacqueline Mason,9,Female,Migraine,2025-12-10,2025-12-21,Dr. Ramos,Neurology,138823
+P0469,Michaela Hendricks,63,Female,Hypertension,2024-07-20,2024-07-22,Dr. Fields,Cardiology,93338
+P0470,Barry Sanders,55,Female,Hypertension,2025-07-18,2025-07-25,Dr. Matthews,Cardiology,11676
+P0471,Ryan Nelson,76,Female,Diabetes,2025-06-09,2025-06-13,Dr. Martin,Endocrinology,24066
+P0472,Brandy Carlson,5,Female,Heart Disease,2024-06-07,2024-06-08,Dr. Gonzalez,Cardiology,82042
+P0473,Brenda Dominguez,53,Female,Dengue,2024-04-28,2024-04-29,Dr. Smith,General Medicine,58799
+P0474,Margaret Espinoza,79,Male,Hypertension,2024-06-18,2024-06-30,Dr. Hammond,Cardiology,77017
+P0475,Jessica Lee,12,Male,Heart Disease,2025-02-24,2025-02-27,Dr. Gamble,Cardiology,142790
+P0476,Kevin Murray,51,Female,Heart Disease,2024-06-22,2024-06-25,Dr. Dyer,Cardiology,7239
+P0477,Patricia French,61,Female,Migraine,2024-11-08,2024-11-10,Dr. Jackson,Neurology,51844
+P0478,Wyatt Reyes,49,Male,Migraine,2025-05-30,2025-06-09,Dr. Dean,Neurology,74912
+P0479,Emily Mueller,34,Female,COVID-19,2024-08-11,2024-08-12,Dr. Watkins,General Medicine,120988
+P0480,Sarah Hall,84,Female,Typhoid,2024-01-18,2024-01-27,Dr. Barnett,General Medicine,101636
+P0481,Vincent Solomon,63,Female,Diabetes,2025-07-22,2025-08-01,Dr. Brown,Endocrinology,10127
+P0482,Amy Brown,12,Male,Typhoid,2024-02-04,2024-02-12,Dr. Ponce,General Medicine,117730
+P0483,Matthew Holt,18,Male,Diabetes,2025-08-09,2025-08-21,Dr. Harris,Endocrinology,64968
+P0484,Julie Villarreal,62,Male,Heart Disease,2025-09-01,2025-09-06,Dr. Bolton,Cardiology,93245
+P0485,Jennifer Pitts,22,Female,Typhoid,2024-03-20,2024-03-21,Dr. Thomas,General Medicine,49709
+P0486,Amanda Jackson PhD,65,Male,Diabetes,2024-10-04,2024-10-13,Dr. Mcclure,Endocrinology,105100
+P0487,Selena Fields,33,Male,Typhoid,2025-02-03,2025-02-12,Dr. Thompson,General Medicine,120211
+P0488,Garrett Alexander,56,Female,Pneumonia,2024-12-29,2025-01-11,Dr. Howard,Pulmonology,74494
+P0489,Richard Hall,81,Male,Hypertension,2025-11-07,2025-11-11,Dr. Sims,Cardiology,98873
+P0490,Anna Bradshaw,58,Female,Heart Disease,2025-11-27,2025-12-07,Dr. Turner,Cardiology,28241
+P0491,Charles Jones,4,Male,Pneumonia,2024-03-30,2024-04-01,Dr. Robertson,Pulmonology,67085
+P0492,Steven Webster,85,Female,COVID-19,2025-08-15,2025-08-21,Dr. Francis,General Medicine,76389
+P0493,Amber Smith,18,Female,Heart Disease,2025-12-26,2026-01-08,Dr. Rowe,Cardiology,31114
+P0494,Tonya Myers,75,Male,Typhoid,2024-05-31,2024-06-01,Dr. Davis,General Medicine,37649
+P0495,Hayley Collins,14,Male,COVID-19,2025-02-28,2025-03-09,Dr. Cruz,General Medicine,117455
+P0496,Lori Smith,28,Female,Asthma,2025-03-18,2025-03-29,Dr. Sparks,Pulmonology,72615
+P0497,Benjamin Rios,87,Male,COVID-19,2024-01-07,2024-01-08,Dr. Lee,General Medicine,32178
+P0498,Tiffany Ryan,6,Female,Diabetes,2024-12-06,2024-12-11,Dr. Johnson,Endocrinology,69070
+P0499,Andrea Padilla,1,Male,Pneumonia,2024-10-17,2024-10-20,Dr. Jackson,Pulmonology,139076
+P0500,Christopher Henderson,72,Female,COVID-19,2024-08-24,2024-08-29,Dr. Bright,General Medicine,102383
+P0501,Ryan Brown,17,Female,Typhoid,2025-11-20,2025-12-01,Dr. Thompson,General Medicine,71975
+P0502,Heidi Ellis,56,Male,Migraine,2024-09-05,2024-09-20,Dr. Li,Neurology,109425
+P0503,Randy Lopez,6,Male,Migraine,2024-12-16,2024-12-28,Dr. Sanders,Neurology,69928
+P0504,Jordan Hansen,69,Male,Heart Disease,2024-07-17,2024-07-20,Dr. Watson,Cardiology,138935
+P0505,Sheila Cox,26,Female,Hypertension,2024-02-14,2024-02-19,Dr. Payne,Cardiology,30861
+P0506,Robert Roberts,9,Male,Diabetes,2024-11-26,2024-11-30,Dr. Robertson,Endocrinology,108799
+P0507,Andrea Adams,63,Male,Heart Disease,2024-01-25,2024-01-27,Dr. Dawson,Cardiology,67516
+P0508,Stephanie Richards,73,Female,Dengue,2025-10-04,2025-10-12,Dr. Roberts,General Medicine,80174
+P0509,Susan Morris,46,Female,Typhoid,2025-12-21,2025-12-27,Dr. Medina,General Medicine,145709
+P0510,Evan Collins,62,Male,Diabetes,2025-10-17,2025-10-22,Dr. Montgomery,Endocrinology,99673
+P0511,Connie Smith,44,Female,Pneumonia,2025-06-15,2025-06-20,Dr. Brown,Pulmonology,82707
+P0512,Michelle Rivera,10,Female,Dengue,2024-09-19,2024-09-20,Dr. Jones,General Medicine,37983
+P0513,Patrick Hart,32,Male,Typhoid,2025-11-16,2025-11-19,Dr. Brooks,General Medicine,96520
+P0514,Michelle Brown,70,Female,COVID-19,2024-06-18,2024-07-03,Dr. Perry,General Medicine,40091
+P0515,Samuel Roy,9,Male,Pneumonia,2025-09-23,2025-09-28,Dr. Mejia,Pulmonology,103868
+P0516,Tonya Pineda,40,Male,Hypertension,2025-11-02,2025-11-14,Dr. Montoya,Cardiology,29111
+P0517,Randy Lopez,43,Female,Heart Disease,2025-10-20,2025-10-31,Dr. Morris,Cardiology,70387
+P0518,Ricardo Fields,56,Male,Hypertension,2024-04-27,2024-05-02,Dr. Waters,Cardiology,21605
+P0519,Dawn Gordon,17,Female,Pneumonia,2024-11-03,2024-11-09,Dr. Brown,Pulmonology,9267
+P0520,Kevin Valdez,18,Male,Arthritis,2025-12-27,2026-01-09,Dr. Rodriguez,Orthopedics,86020
+P0521,Linda Macdonald,33,Female,Asthma,2025-07-02,2025-07-08,Dr. Torres,Pulmonology,13073
+P0522,Catherine Combs,34,Male,Diabetes,2024-11-06,2024-11-15,Dr. Clayton,Endocrinology,35774
+P0523,Taylor Harris,75,Male,Diabetes,2024-10-17,2024-10-18,Dr. Garrett,Endocrinology,68997
+P0524,Victoria Jordan,36,Female,COVID-19,2025-04-13,2025-04-18,Dr. Parks,General Medicine,37127
+P0525,Mary Figueroa,31,Female,Arthritis,2025-05-10,2025-05-25,Dr. Luna,Orthopedics,120261
+P0526,Kelli Ramos,39,Female,Dengue,2024-11-30,2024-12-01,Dr. Hill,General Medicine,78883
+P0527,Jeffrey Johnson MD,62,Female,Dengue,2025-11-06,2025-11-15,Dr. Fisher,General Medicine,54111
+P0528,Sandra Rice,57,Female,Asthma,2024-12-28,2025-01-08,Dr. Flores,Pulmonology,94547
+P0529,Matthew Jacobs,20,Female,Arthritis,2024-11-27,2024-12-06,Dr. Collins,Orthopedics,117397
+P0530,Timothy Murray,8,Female,Arthritis,2024-03-11,2024-03-20,Dr. Woodard,Orthopedics,128786
+P0531,Alexander Watts,62,Male,Arthritis,2024-08-13,2024-08-17,Dr. Williams,Orthopedics,44623
+P0532,Melissa Richardson,35,Female,Diabetes,2024-07-26,2024-08-10,Dr. Wolfe,Endocrinology,58132
+P0533,Nathaniel Kemp,44,Female,Dengue,2024-07-19,2024-07-28,Dr. Erickson,General Medicine,121259
+P0534,Linda White,3,Female,Asthma,2024-04-04,2024-04-05,Dr. Miller,Pulmonology,135088
+P0535,Michael Howard,39,Male,Heart Disease,2024-01-31,2024-02-04,Dr. Leblanc,Cardiology,5679
+P0536,Lisa Wheeler,43,Male,Heart Disease,2025-07-26,2025-08-02,Dr. Stephenson,Cardiology,49147
+P0537,Tyrone Jones,74,Female,Dengue,2024-02-02,2024-02-08,Dr. Levy,General Medicine,108055
+P0538,James Ryan,56,Female,Asthma,2025-08-14,2025-08-27,Dr. Martin,Pulmonology,29216
+P0539,Stephanie Haney,16,Female,Dengue,2024-07-31,2024-08-13,Dr. Davis,General Medicine,139125
+P0540,Jose White,56,Female,Diabetes,2025-11-21,2025-11-22,Dr. Stewart,Endocrinology,28527
+P0541,Vanessa Bryant,49,Male,COVID-19,2024-04-27,2024-05-02,Dr. Ruiz,General Medicine,116092
+P0542,Austin York,17,Female,Asthma,2025-05-21,2025-05-26,Dr. Weiss,Pulmonology,69166
+P0543,Paul Bowers,73,Female,COVID-19,2025-12-23,2025-12-24,Dr. Luna,General Medicine,57564
+P0544,Colton Kemp,36,Female,Asthma,2024-05-27,2024-05-30,Dr. Villanueva,Pulmonology,37639
+P0545,Kathleen Mccann,85,Female,Migraine,2025-05-23,2025-05-25,Dr. Ford,Neurology,5213
+P0546,Jessica Marquez,48,Female,Diabetes,2025-11-12,2025-11-19,Dr. Ryan,Endocrinology,70627
+P0547,Jenna Owen,80,Male,Heart Disease,2024-02-10,2024-02-18,Dr. Dean,Cardiology,144035
+P0548,Hector Mitchell,85,Male,Dengue,2025-07-02,2025-07-16,Dr. Harrell,General Medicine,111835
+P0549,Brenda Fernandez,79,Female,Asthma,2024-06-05,2024-06-14,Dr. Baker,Pulmonology,50143
+P0550,Pamela Aguilar,42,Female,Asthma,2024-05-26,2024-06-03,Dr. Silva,Pulmonology,35909
+P0551,Emily Mcconnell,13,Female,Arthritis,2025-02-16,2025-02-28,Dr. Price,Orthopedics,17228
+P0552,Jamie Taylor,45,Female,Diabetes,2025-05-24,2025-06-08,Dr. Flores,Endocrinology,55981
+P0553,Alex Webb,45,Female,Typhoid,2024-07-05,2024-07-09,Dr. Cochran,General Medicine,58982
+P0554,Walter Brooks,81,Male,Typhoid,2025-10-26,2025-11-10,Dr. Hughes,General Medicine,43162
+P0555,Melissa Jacobs,61,Female,Hypertension,2025-09-06,2025-09-15,Dr. Turner,Cardiology,146473
+P0556,Angela Mcdonald,27,Male,Heart Disease,2024-10-12,2024-10-16,Dr. Golden,Cardiology,139754
+P0557,Heather Walker,8,Male,Migraine,2025-12-04,2025-12-14,Dr. Cannon,Neurology,64602
+P0558,Ashley Taylor,22,Female,COVID-19,2025-12-07,2025-12-21,Dr. Macias,General Medicine,120345
+P0559,Michael Berg,59,Female,Asthma,2025-02-27,2025-03-10,Dr. Johnson,Pulmonology,88930
+P0560,Danielle Martin,80,Female,Dengue,2025-06-19,2025-06-20,Dr. Arnold,General Medicine,61733
+P0561,Robert Acosta,20,Male,Migraine,2024-11-05,2024-11-12,Dr. Edwards,Neurology,101903
+P0562,Zachary Taylor,82,Male,Pneumonia,2025-07-09,2025-07-10,Dr. Kelly,Pulmonology,136944
+P0563,Brenda Cummings DVM,83,Male,Pneumonia,2024-09-02,2024-09-06,Dr. Wall,Pulmonology,23132
+P0564,Brian Davis,53,Female,Arthritis,2025-08-05,2025-08-10,Dr. Taylor,Orthopedics,5319
+P0565,Casey Le,58,Female,Migraine,2025-03-13,2025-03-23,Dr. Jones,Neurology,90216
+P0566,Amy Caldwell,12,Male,Heart Disease,2025-04-21,2025-04-25,Dr. Powers,Cardiology,129485
+P0567,Nicole Hamilton,12,Female,Asthma,2024-07-10,2024-07-20,Dr. Cooper,Pulmonology,81024
+P0568,Katelyn Kennedy,47,Female,Dengue,2025-03-29,2025-04-08,Dr. Jensen,General Medicine,50953
+P0569,Anthony Daniels,44,Female,Asthma,2025-12-30,2026-01-05,Dr. Russell,Pulmonology,70590
+P0570,Jennifer Davis,70,Male,Typhoid,2025-01-21,2025-01-31,Dr. Mckay,General Medicine,125997
+P0571,Derek Evans,26,Male,Typhoid,2025-06-05,2025-06-16,Dr. Clark,General Medicine,30189
+P0572,William Escobar,6,Female,Migraine,2025-12-28,2026-01-06,Dr. White,Neurology,23054
+P0573,Olivia Warren,73,Female,Heart Disease,2025-05-11,2025-05-23,Dr. Romero,Cardiology,88079
+P0574,James Johnson,47,Female,Typhoid,2025-06-29,2025-07-05,Dr. Jones,General Medicine,128757
+P0575,Angelica Alexander,67,Male,Heart Disease,2024-11-06,2024-11-19,Dr. Garrett,Cardiology,20689
+P0576,Michael Hill,55,Female,Dengue,2025-01-06,2025-01-11,Dr. Baldwin,General Medicine,48690
+P0577,Sean Adams,87,Female,Asthma,2025-04-06,2025-04-08,Dr. Brown,Pulmonology,103680
+P0578,Edgar Davis,78,Female,Hypertension,2024-08-18,2024-08-21,Dr. Pierce,Cardiology,95746
+P0579,Mikayla Guerrero,1,Female,Heart Disease,2024-06-20,2024-06-22,Dr. Huffman,Cardiology,80552
+P0580,Glenn Bernard,21,Male,Hypertension,2024-03-21,2024-04-03,Dr. Terry,Cardiology,69932
+P0581,Eric Lawson,50,Male,Hypertension,2024-02-22,2024-03-05,Dr. Flowers,Cardiology,130813
+P0582,Tanner Sexton,25,Male,Typhoid,2025-04-08,2025-04-16,Dr. Holden,General Medicine,11737
+P0583,Kristopher Chavez,13,Female,Asthma,2024-11-21,2024-12-02,Dr. Hayes,Pulmonology,87998
+P0584,David Murray,19,Female,Diabetes,2025-04-13,2025-04-27,Dr. Mcbride,Endocrinology,130544
+P0585,Tyler George,53,Female,Hypertension,2025-07-27,2025-08-09,Dr. Palmer,Cardiology,139892
+P0586,Rebecca Ho,32,Female,Pneumonia,2024-04-19,2024-04-23,Dr. Coleman,Pulmonology,120498
+P0587,Lisa Dunn,26,Female,COVID-19,2024-02-10,2024-02-14,Dr. Hall,General Medicine,54391
+P0588,Candace Torres,6,Male,COVID-19,2024-08-04,2024-08-15,Dr. Vargas,General Medicine,19706
+P0589,Jennifer Wood,48,Male,Hypertension,2025-07-18,2025-07-31,Dr. Turner,Cardiology,149926
+P0590,Austin Valentine,26,Female,Migraine,2024-07-10,2024-07-25,Dr. Norman,Neurology,139246
+P0591,Amanda Parker,76,Male,Asthma,2025-06-24,2025-07-04,Dr. Horne,Pulmonology,122809
+P0592,Alyssa Sanders,79,Male,Pneumonia,2024-12-19,2025-01-03,Dr. King,Pulmonology,19481
+P0593,Miss Tracy Kim,10,Female,Hypertension,2024-04-15,2024-04-24,Dr. Walker,Cardiology,14797
+P0594,Ronald Keller,78,Female,Diabetes,2024-02-02,2024-02-16,Dr. Stevens,Endocrinology,65514
+P0595,Gregory Mckee,72,Male,Arthritis,2025-02-21,2025-03-02,Dr. Mitchell,Orthopedics,19916
+P0596,Dylan Norman,78,Male,Dengue,2025-02-27,2025-03-12,Dr. Fox,General Medicine,29864
+P0597,Joshua Johnson,1,Male,Pneumonia,2025-06-23,2025-06-30,Dr. Johnson,Pulmonology,43042
+P0598,Trevor Kelly,72,Female,COVID-19,2024-02-28,2024-03-03,Dr. Liu,General Medicine,97684
+P0599,April Moody,11,Male,Diabetes,2024-09-04,2024-09-14,Dr. Lopez,Endocrinology,54048
+P0600,William Ayers,25,Male,Dengue,2024-10-02,2024-10-05,Dr. Adams,General Medicine,145758
+P0601,Anthony Foster,67,Female,COVID-19,2025-09-04,2025-09-11,Dr. Patterson,General Medicine,85199
+P0602,William Mosley,35,Male,Hypertension,2024-09-04,2024-09-07,Dr. Perez,Cardiology,100578
+P0603,Michael Lopez,13,Male,COVID-19,2025-05-13,2025-05-24,Dr. Wood,General Medicine,37314
+P0604,Joshua Massey,81,Female,Dengue,2024-03-20,2024-04-01,Dr. Arellano,General Medicine,58814
+P0605,Erica Miller,87,Female,COVID-19,2024-11-27,2024-12-10,Dr. Newman,General Medicine,140971
+P0606,Ryan Jones,22,Female,Pneumonia,2024-10-25,2024-11-05,Dr. Owen,Pulmonology,38388
+P0607,Warren Peterson,14,Male,Typhoid,2025-03-06,2025-03-18,Dr. Abbott,General Medicine,54672
+P0608,Courtney Clark,43,Male,Arthritis,2024-03-13,2024-03-15,Dr. Graham,Orthopedics,146363
+P0609,Richard Wilson,65,Male,Heart Disease,2025-06-12,2025-06-14,Dr. Wolfe,Cardiology,108700
+P0610,Joanne Mcguire,31,Male,Diabetes,2024-04-23,2024-05-08,Dr. Gonzalez,Endocrinology,48079
+P0611,Christopher Mckinney,13,Male,Diabetes,2025-10-24,2025-11-05,Dr. Bennett,Endocrinology,73856
+P0612,Brooke Diaz,21,Female,Asthma,2024-10-01,2024-10-04,Dr. Foster,Pulmonology,63790
+P0613,Debra Newman,25,Female,Arthritis,2024-04-16,2024-04-23,Dr. Johnson,Orthopedics,69895
+P0614,Jason Phillips,32,Male,Hypertension,2024-11-17,2024-11-29,Dr. Davidson,Cardiology,126357
+P0615,Shelby Villanueva,57,Female,Diabetes,2024-12-23,2024-12-31,Dr. Garner,Endocrinology,75772
+P0616,Barbara Campos,39,Female,COVID-19,2025-11-12,2025-11-16,Dr. Maddox,General Medicine,88316
+P0617,Philip Wiley,90,Female,Migraine,2024-03-23,2024-04-07,Dr. Turner,Neurology,41684
+P0618,Katherine Morris,21,Male,COVID-19,2024-03-26,2024-03-27,Dr. Melendez,General Medicine,65752
+P0619,Jeffrey Mason,79,Male,Diabetes,2025-11-20,2025-12-03,Dr. Jackson,Endocrinology,117527
+P0620,Jessica Thompson,75,Male,Migraine,2024-03-21,2024-03-29,Dr. Larsen,Neurology,74105
+P0621,Matthew Robinson,56,Male,COVID-19,2025-05-08,2025-05-13,Dr. Logan,General Medicine,103232
+P0622,Nancy Edwards,6,Male,Typhoid,2025-06-01,2025-06-10,Dr. Gregory,General Medicine,19615
+P0623,Cody Castillo,48,Female,Dengue,2025-06-05,2025-06-10,Dr. Green,General Medicine,28858
+P0624,Melissa Morris,57,Female,COVID-19,2024-03-10,2024-03-13,Dr. Garcia,General Medicine,116523
+P0625,Susan Avila,58,Male,Asthma,2025-08-12,2025-08-24,Dr. Berry,Pulmonology,80619
+P0626,Scott Warren,51,Male,Dengue,2024-07-02,2024-07-10,Dr. Rodriguez,General Medicine,117940
+P0627,Brian Oneill,7,Female,Asthma,2024-09-10,2024-09-24,Dr. Sanchez,Pulmonology,106696
+P0628,Barbara Campbell,13,Male,Heart Disease,2024-07-16,2024-07-24,Dr. Kelly,Cardiology,52040
+P0629,Casey Farmer,7,Female,COVID-19,2025-06-18,2025-07-03,Dr. Stevens,General Medicine,137159
+P0630,Jaime Johnson,45,Male,Asthma,2024-09-11,2024-09-19,Dr. Rivera,Pulmonology,104368
+P0631,Mary Weaver,37,Female,Migraine,2024-11-17,2024-12-02,Dr. Farley,Neurology,140108
+P0632,Michael Clements PhD,25,Male,Migraine,2024-04-16,2024-04-19,Dr. Robinson,Neurology,53486
+P0633,Jonathan Casey,23,Female,Pneumonia,2024-10-26,2024-10-31,Dr. Robinson,Pulmonology,141392
+P0634,Sarah Jones,56,Female,Arthritis,2025-11-10,2025-11-16,Dr. Hoffman,Orthopedics,54062
+P0635,Melissa Farley,10,Female,Arthritis,2025-05-29,2025-05-31,Dr. Ramirez,Orthopedics,68192
+P0636,Carla Mccullough,35,Male,Asthma,2024-02-17,2024-02-29,Dr. Mccormick,Pulmonology,24943
+P0637,Gregory Parker,80,Male,Dengue,2024-03-06,2024-03-07,Dr. Riley,General Medicine,24156
+P0638,Krystal Wallace,23,Female,Asthma,2025-01-10,2025-01-16,Dr. Arnold,Pulmonology,85098
+P0639,Shannon Stephenson,22,Male,Arthritis,2025-09-29,2025-10-01,Dr. Ramos,Orthopedics,7649
+P0640,Travis Matthews,28,Female,Hypertension,2025-03-13,2025-03-25,Dr. Wilkinson,Cardiology,88176
+P0641,Jonathan Doyle,75,Female,Arthritis,2025-03-03,2025-03-10,Dr. Vargas,Orthopedics,126248
+P0642,Robert Roy MD,53,Male,Diabetes,2025-12-08,2025-12-13,Dr. Price,Endocrinology,61547
+P0643,Wayne Ramirez,62,Male,Migraine,2024-12-12,2024-12-25,Dr. Lucas,Neurology,48061
+P0644,Kayla Myers,3,Female,Dengue,2024-01-25,2024-02-06,Dr. George,General Medicine,35801
+P0645,Sherry Sherman,89,Female,Dengue,2024-11-07,2024-11-16,Dr. Martinez,General Medicine,96579
+P0646,Jeremy Robinson,62,Female,Typhoid,2025-04-27,2025-05-08,Dr. Martin,General Medicine,71986
+P0647,Rebecca Colon,18,Female,Heart Disease,2024-06-16,2024-06-22,Dr. Spencer,Cardiology,109273
+P0648,Steven Hunt,46,Male,Typhoid,2024-05-18,2024-05-21,Dr. Smith,General Medicine,23201
+P0649,Tammy Dillon,51,Male,Migraine,2024-12-19,2024-12-31,Dr. Mills,Neurology,41039
+P0650,Christina Jones,87,Male,Diabetes,2024-08-20,2024-08-31,Dr. Evans,Endocrinology,83046
+P0651,Laura Hall,53,Male,COVID-19,2025-11-01,2025-11-03,Dr. Hicks,General Medicine,116082
+P0652,Jordan Brown,22,Female,COVID-19,2025-11-08,2025-11-17,Dr. Evans,General Medicine,36432
+P0653,Thomas Love,84,Female,Hypertension,2024-11-16,2024-11-23,Dr. English,Cardiology,120034
+P0654,Lindsey Estes,77,Female,Diabetes,2024-07-23,2024-07-25,Dr. Anderson,Endocrinology,110912
+P0655,Michael Pennington MD,79,Male,Migraine,2024-03-21,2024-03-26,Dr. Smith,Neurology,46060
+P0656,Kevin Bell,71,Female,COVID-19,2024-06-04,2024-06-10,Dr. King,General Medicine,81578
+P0657,Scott Scott,13,Male,Asthma,2024-03-23,2024-04-03,Dr. Rangel,Pulmonology,29649
+P0658,Claire Manning,30,Male,Pneumonia,2024-02-20,2024-02-27,Dr. Miller,Pulmonology,126640
+P0659,Matthew House,23,Female,Dengue,2025-10-05,2025-10-10,Dr. Odom,General Medicine,131606
+P0660,Ashley Roberts,23,Male,Diabetes,2024-09-23,2024-10-02,Dr. Hamilton,Endocrinology,42228
+P0661,Elizabeth Simpson,27,Female,Typhoid,2025-12-11,2025-12-14,Dr. Weaver,General Medicine,54533
+P0662,Becky Martin,4,Female,Arthritis,2024-01-26,2024-02-08,Dr. Wright,Orthopedics,116626
+P0663,Joseph Jordan,57,Male,Migraine,2024-05-05,2024-05-14,Dr. Scott,Neurology,75839
+P0664,Rodney Evans,25,Male,Heart Disease,2025-07-20,2025-08-01,Dr. Reed,Cardiology,11021
+P0665,Steven Odonnell,55,Female,Diabetes,2024-11-29,2024-12-14,Dr. Allen,Endocrinology,55847
+P0666,Allison Calhoun,36,Male,Typhoid,2024-08-07,2024-08-18,Dr. Mason,General Medicine,43808
+P0667,Richard Austin,82,Female,Migraine,2025-10-17,2025-10-19,Dr. Parker,Neurology,64084
+P0668,Beth Hernandez,55,Male,Heart Disease,2025-05-26,2025-06-05,Dr. Wallace,Cardiology,67033
+P0669,John Cardenas,10,Female,Dengue,2024-12-03,2024-12-15,Dr. Collier,General Medicine,137833
+P0670,Jerome Dean,44,Female,Hypertension,2024-09-23,2024-09-25,Dr. Williams,Cardiology,21797
+P0671,Gene Hudson,59,Male,Dengue,2025-12-18,2025-12-19,Dr. Howell,General Medicine,113240
+P0672,Jeffrey Owens,4,Male,Dengue,2024-03-28,2024-04-01,Dr. Wagner,General Medicine,60566
+P0673,Christopher Floyd,77,Female,Diabetes,2024-05-02,2024-05-13,Dr. Bowman,Endocrinology,54642
+P0674,Charles Hernandez,34,Male,Arthritis,2024-08-08,2024-08-13,Dr. Davis,Orthopedics,124561
+P0675,Mary Miller,39,Female,Pneumonia,2024-02-04,2024-02-18,Dr. Thompson,Pulmonology,146423
+P0676,Michael Scott,13,Male,Pneumonia,2024-01-01,2024-01-07,Dr. Hill,Pulmonology,55797
+P0677,William Martin,35,Female,Dengue,2025-08-10,2025-08-16,Dr. Duncan,General Medicine,104408
+P0678,Jenny Miller,43,Male,Migraine,2024-04-15,2024-04-25,Dr. Smith,Neurology,41264
+P0679,David Hamilton,57,Female,Hypertension,2024-10-29,2024-11-05,Dr. Love,Cardiology,23808
+P0680,Samantha Washington,65,Female,Arthritis,2025-04-01,2025-04-11,Dr. Holland,Orthopedics,37958
+P0681,Herbert Martin,68,Male,Arthritis,2024-08-29,2024-09-12,Dr. Jones,Orthopedics,125727
+P0682,April Cruz,10,Female,Typhoid,2025-11-08,2025-11-15,Dr. Tyler,General Medicine,32437
+P0683,Sophia Harrison,43,Male,Arthritis,2025-06-04,2025-06-06,Dr. Baker,Orthopedics,11137
+P0684,Robert Bradley,70,Male,Typhoid,2025-08-26,2025-08-30,Dr. Williams,General Medicine,71647
+P0685,Russell Hardy,39,Female,Pneumonia,2024-07-02,2024-07-13,Dr. Francis,Pulmonology,94814
+P0686,Curtis Michael,18,Male,Pneumonia,2025-12-23,2025-12-31,Dr. Anderson,Pulmonology,128924
+P0687,Jason Harvey,82,Male,Diabetes,2024-09-21,2024-09-30,Dr. Smith,Endocrinology,130461
+P0688,Kevin Keller,49,Male,Asthma,2025-10-03,2025-10-09,Dr. Morgan,Pulmonology,5685
+P0689,Ryan Hernandez,47,Male,Dengue,2025-03-12,2025-03-13,Dr. Esparza,General Medicine,51930
+P0690,Timothy Roy,21,Female,Dengue,2024-05-10,2024-05-17,Dr. Hamilton,General Medicine,82749
+P0691,Glenn Kirk,42,Male,COVID-19,2024-06-27,2024-06-29,Dr. Diaz,General Medicine,106864
+P0692,Mr. Robert Nolan,53,Male,COVID-19,2024-08-13,2024-08-28,Dr. Hughes,General Medicine,111040
+P0693,Mia Thomas,14,Female,Pneumonia,2025-05-08,2025-05-19,Dr. Powell,Pulmonology,89015
+P0694,Stephanie Berry,79,Female,Migraine,2025-07-04,2025-07-08,Dr. Hunter,Neurology,29772
+P0695,Ann Thomas,38,Male,Diabetes,2024-05-28,2024-05-30,Dr. Jensen,Endocrinology,75234
+P0696,Zachary Miller,34,Male,Pneumonia,2024-01-11,2024-01-15,Dr. Pearson,Pulmonology,55838
+P0697,Michael Thompson,11,Male,Hypertension,2024-12-26,2024-12-31,Dr. Soto,Cardiology,108714
+P0698,Jon Hurley,15,Female,Migraine,2025-04-30,2025-05-08,Dr. Fisher,Neurology,126238
+P0699,Bradley Friedman,13,Male,Asthma,2024-09-14,2024-09-19,Dr. Baker,Pulmonology,54578
+P0700,Samantha Leblanc,4,Male,Arthritis,2025-07-06,2025-07-12,Dr. Griffin,Orthopedics,148673
+P0701,Roberto Pittman,49,Male,Arthritis,2025-03-18,2025-04-02,Dr. Fox,Orthopedics,38614
+P0702,Matthew Smith,90,Female,Arthritis,2025-12-29,2026-01-02,Dr. Weaver,Orthopedics,122888
+P0703,Whitney Ferguson,67,Female,Pneumonia,2025-08-20,2025-09-03,Dr. Serrano,Pulmonology,139991
+P0704,Scott Shelton,89,Female,Arthritis,2024-04-22,2024-05-06,Dr. Coleman,Orthopedics,135392
+P0705,Michael Christian,9,Male,Diabetes,2025-01-04,2025-01-12,Dr. Daniel,Endocrinology,20017
+P0706,Cheryl Walker,58,Female,Dengue,2024-02-08,2024-02-15,Dr. Smith,General Medicine,148150
+P0707,William Morrison,24,Male,Typhoid,2025-06-05,2025-06-16,Dr. Mckinney,General Medicine,23147
+P0708,Lynn Anderson,16,Male,Asthma,2024-02-09,2024-02-20,Dr. Rogers,Pulmonology,21771
+P0709,Brianna Perkins,20,Male,Arthritis,2025-09-28,2025-10-12,Dr. Gibson,Orthopedics,70568
+P0710,Mr. William Crosby,20,Male,Arthritis,2025-09-28,2025-10-10,Dr. Reeves,Orthopedics,26668
+P0711,Aaron Blevins,56,Female,COVID-19,2024-12-13,2024-12-23,Dr. Rose,General Medicine,66401
+P0712,Steven Rios,80,Female,COVID-19,2025-07-30,2025-08-12,Dr. Johnson,General Medicine,144724
+P0713,Katherine Robertson,4,Male,Hypertension,2024-08-12,2024-08-13,Dr. Chang,Cardiology,108785
+P0714,Olivia Bryant,28,Female,Dengue,2025-06-05,2025-06-06,Dr. Flores,General Medicine,22967
+P0715,Jacqueline Howard,72,Female,Arthritis,2025-12-04,2025-12-19,Dr. Jenkins,Orthopedics,40760
+P0716,Jermaine Williams DDS,16,Female,Dengue,2025-10-22,2025-11-02,Dr. Stein,General Medicine,103343
+P0717,Toni Rogers,7,Female,Asthma,2025-09-12,2025-09-27,Dr. Garcia,Pulmonology,28534
+P0718,Ashley Davis DDS,17,Female,Migraine,2024-11-27,2024-12-05,Dr. Wallace,Neurology,112322
+P0719,Mikayla Baker,77,Male,Hypertension,2025-05-31,2025-06-07,Dr. Lewis,Cardiology,49498
+P0720,James Rivas,10,Female,COVID-19,2024-01-12,2024-01-25,Dr. Blackwell,General Medicine,142136
+P0721,Jeff Oconnor,29,Male,Migraine,2024-08-29,2024-09-02,Dr. Wyatt,Neurology,56001
+P0722,Maureen Olson,82,Male,Typhoid,2024-03-28,2024-04-11,Dr. Parker,General Medicine,89356
+P0723,Nicholas Nichols PhD,41,Male,Pneumonia,2024-11-06,2024-11-21,Dr. Noble,Pulmonology,101050
+P0724,John Camacho,54,Male,Diabetes,2025-06-21,2025-06-26,Dr. Duke,Endocrinology,127836
+P0725,Mallory Hall,28,Male,Heart Disease,2024-09-30,2024-10-15,Dr. Gray,Cardiology,32818
+P0726,Mr. James Huber,73,Male,Asthma,2025-05-26,2025-06-03,Dr. Barrera,Pulmonology,6534
+P0727,Reginald Whitney,16,Male,Pneumonia,2025-12-06,2025-12-08,Dr. Kelley,Pulmonology,44310
+P0728,John Morrison,28,Male,Pneumonia,2025-01-17,2025-01-22,Dr. Carter,Pulmonology,6863
+P0729,John Francis,46,Female,Typhoid,2025-02-25,2025-02-27,Dr. Khan,General Medicine,139298
+P0730,Darlene Hampton,52,Female,Typhoid,2024-11-11,2024-11-12,Dr. Nelson,General Medicine,75720
+P0731,Brian Wilson,14,Male,Arthritis,2024-06-04,2024-06-14,Dr. Summers,Orthopedics,45922
+P0732,Craig Dudley,63,Female,Typhoid,2024-11-21,2024-12-01,Dr. Watts,General Medicine,27691
+P0733,Steven King,42,Male,Heart Disease,2025-07-20,2025-07-24,Dr. Johnson,Cardiology,134519
+P0734,Janet Maldonado,30,Male,Dengue,2024-05-18,2024-05-28,Dr. Hoffman,General Medicine,103163
+P0735,Jason Torres,25,Male,COVID-19,2024-12-25,2025-01-05,Dr. Payne,General Medicine,67366
+P0736,Katherine Robertson,86,Male,Dengue,2025-12-12,2025-12-20,Dr. Griffith,General Medicine,125131
+P0737,Joseph Wright,65,Female,COVID-19,2025-06-30,2025-07-03,Dr. Whitney,General Medicine,149643
+P0738,Rose Hernandez,20,Female,Typhoid,2025-09-19,2025-09-27,Dr. Romero,General Medicine,130429
+P0739,Christina Beck,79,Female,Heart Disease,2025-09-22,2025-10-06,Dr. Wells,Cardiology,71093
+P0740,Eddie Schmidt,52,Female,Hypertension,2025-07-12,2025-07-16,Dr. Harper,Cardiology,7497
+P0741,Brenda Powell,88,Male,COVID-19,2024-11-11,2024-11-18,Dr. Johnson,General Medicine,109650
+P0742,Erica Espinoza,28,Female,Pneumonia,2025-06-25,2025-07-09,Dr. Hayes,Pulmonology,50208
+P0743,Jason Roberts,33,Male,Heart Disease,2024-12-03,2024-12-10,Dr. Cardenas,Cardiology,27334
+P0744,Gregory Gutierrez,62,Female,Pneumonia,2024-11-18,2024-12-01,Dr. Hall,Pulmonology,12442
+P0745,Ryan Harrison,12,Male,Typhoid,2024-03-26,2024-04-08,Dr. Lee,General Medicine,80459
+P0746,Richard Walker,90,Female,Arthritis,2024-12-10,2024-12-16,Dr. Ruiz,Orthopedics,57838
+P0747,Mathew Maddox,44,Female,Typhoid,2024-03-21,2024-04-04,Dr. Ramirez,General Medicine,38614
+P0748,Sarah Velez,65,Male,Pneumonia,2024-03-19,2024-03-27,Dr. Mitchell,Pulmonology,84759
+P0749,Howard Johnson,6,Male,COVID-19,2024-10-05,2024-10-07,Dr. Weeks,General Medicine,98895
+P0750,Carrie Brennan,73,Female,Hypertension,2025-10-19,2025-10-23,Dr. Conrad,Cardiology,28300
+P0751,Angela Trevino,57,Male,Pneumonia,2025-06-08,2025-06-23,Dr. Kane,Pulmonology,30841
+P0752,Mrs. Beth Cantu,49,Female,COVID-19,2025-12-26,2026-01-05,Dr. Brown,General Medicine,109598
+P0753,Michele Pearson,18,Male,Typhoid,2025-09-09,2025-09-10,Dr. Walker,General Medicine,22834
+P0754,Aaron Porter,58,Female,Asthma,2025-10-28,2025-10-29,Dr. Russo,Pulmonology,79831
+P0755,Joshua Gutierrez,36,Female,Migraine,2024-08-08,2024-08-09,Dr. Thornton,Neurology,39734
+P0756,Jacqueline Nelson,85,Female,Hypertension,2025-04-12,2025-04-26,Dr. West,Cardiology,125291
+P0757,Kristen Francis,45,Male,Dengue,2025-03-08,2025-03-15,Dr. Hampton,General Medicine,62044
+P0758,Jorge Hill,58,Female,Arthritis,2024-10-26,2024-11-08,Dr. Baker,Orthopedics,31646
+P0759,Jonathan Crawford,61,Female,Arthritis,2024-12-18,2024-12-27,Dr. Rodriguez,Orthopedics,36971
+P0760,David Avila,67,Female,COVID-19,2025-03-14,2025-03-24,Dr. Bradshaw,General Medicine,52524
+P0761,Gary George,14,Male,Hypertension,2025-08-09,2025-08-12,Dr. Brown,Cardiology,51631
+P0762,Joshua Gregory,23,Male,Heart Disease,2024-11-26,2024-11-27,Dr. Mccoy,Cardiology,123700
+P0763,Amber Mack,44,Male,Diabetes,2024-05-08,2024-05-22,Dr. Hunt,Endocrinology,6758
+P0764,Paula Bauer,74,Female,Dengue,2024-02-22,2024-03-07,Dr. Ross,General Medicine,148629
+P0765,Julia Jones,2,Female,Diabetes,2025-04-20,2025-04-29,Dr. Russell,Endocrinology,47433
+P0766,Helen Anderson,62,Female,Diabetes,2025-12-24,2026-01-08,Dr. Brown,Endocrinology,51190
+P0767,Madison Lopez,61,Male,Migraine,2024-05-06,2024-05-15,Dr. Osborne,Neurology,50121
+P0768,Trevor West,90,Female,Dengue,2025-10-17,2025-10-27,Dr. King,General Medicine,68379
+P0769,Joshua Graham,73,Female,Heart Disease,2025-08-10,2025-08-16,Dr. Wood,Cardiology,59027
+P0770,Janet Irwin,84,Female,Hypertension,2024-08-12,2024-08-16,Dr. Evans,Cardiology,75475
+P0771,Felicia Williams,62,Female,Arthritis,2025-04-28,2025-05-08,Dr. Martinez,Orthopedics,53352
+P0772,Luke Carter,49,Male,Asthma,2025-10-27,2025-11-02,Dr. Johnson,Pulmonology,142379
+P0773,James Burgess,4,Male,COVID-19,2024-07-30,2024-08-04,Dr. Miller,General Medicine,109463
+P0774,Stacy Glenn,41,Male,Diabetes,2025-12-25,2025-12-31,Dr. Maxwell,Endocrinology,37979
+P0775,Kathy Lucas,81,Female,Pneumonia,2025-02-15,2025-02-18,Dr. Chapman,Pulmonology,63898
+P0776,Mark Trevino,84,Male,Dengue,2025-01-27,2025-01-30,Dr. Walker,General Medicine,21271
+P0777,Heidi May,66,Male,Hypertension,2024-11-09,2024-11-19,Dr. Delgado,Cardiology,97440
+P0778,Tina Johnson,81,Male,COVID-19,2024-12-08,2024-12-22,Dr. Rowe,General Medicine,91938
+P0779,Samantha Castaneda,33,Male,Migraine,2024-12-25,2025-01-03,Dr. Mueller,Neurology,62068
+P0780,Joshua Williams,45,Female,Dengue,2025-05-06,2025-05-11,Dr. Horn,General Medicine,103040
+P0781,Ralph Green,39,Male,COVID-19,2024-04-27,2024-05-05,Dr. Reeves,General Medicine,7392
+P0782,John Smith,5,Female,Typhoid,2025-01-09,2025-01-14,Dr. Hunt,General Medicine,39390
+P0783,Daniel Sims,59,Male,COVID-19,2024-03-08,2024-03-15,Dr. Stevenson,General Medicine,110631
+P0784,Kevin Meyer,54,Female,Heart Disease,2025-06-07,2025-06-09,Dr. Johnson,Cardiology,136712
+P0785,Richard Williams,21,Female,Dengue,2024-12-25,2025-01-07,Dr. Williamson,General Medicine,122371
+P0786,Amy Moody,34,Male,Pneumonia,2025-12-06,2025-12-08,Dr. Cole,Pulmonology,70373
+P0787,Jessica Rice,53,Male,Arthritis,2025-04-21,2025-05-01,Dr. Johnson,Orthopedics,40312
+P0788,Kara Taylor,82,Female,Typhoid,2024-05-06,2024-05-07,Dr. Wilcox,General Medicine,75002
+P0789,Molly Williamson,25,Female,Dengue,2025-08-12,2025-08-17,Dr. Anthony,General Medicine,85526
+P0790,Jonathan Webb,24,Female,Pneumonia,2024-12-07,2024-12-08,Dr. Smith,Pulmonology,88526
+P0791,Michael Allen,6,Male,Typhoid,2025-08-28,2025-09-02,Dr. Evans,General Medicine,26892
+P0792,Miss Kathryn Gomez,72,Female,Migraine,2025-04-10,2025-04-19,Dr. Ramirez,Neurology,135156
+P0793,Nancy White,62,Male,Dengue,2024-05-27,2024-05-30,Dr. Morales,General Medicine,111323
+P0794,Crystal Lee,57,Female,Hypertension,2025-01-27,2025-01-28,Dr. Taylor,Cardiology,94711
+P0795,Robert Walker,68,Male,Hypertension,2025-03-07,2025-03-10,Dr. Williamson,Cardiology,124375
+P0796,James Thomas,1,Female,Dengue,2025-01-31,2025-02-06,Dr. Cox,General Medicine,9960
+P0797,Vanessa Santos,57,Female,Arthritis,2025-02-28,2025-03-07,Dr. Olsen,Orthopedics,128175
+P0798,Timothy Morrow,90,Female,Arthritis,2025-07-30,2025-08-10,Dr. Perkins,Orthopedics,107685
+P0799,Joanna Madden,53,Male,Dengue,2025-04-26,2025-05-03,Dr. Houston,General Medicine,50266
+P0800,Steven Walker DDS,74,Male,Heart Disease,2025-03-04,2025-03-15,Dr. Conway,Cardiology,122615
+P0801,William Patton,62,Male,Dengue,2025-06-11,2025-06-17,Dr. Eaton,General Medicine,94888
+P0802,Brian Larson,44,Male,Hypertension,2025-09-28,2025-10-08,Dr. Singh,Cardiology,71594
+P0803,Jacqueline Vega,28,Female,Arthritis,2024-04-05,2024-04-15,Dr. Grimes,Orthopedics,102406
+P0804,Andrea Dunn,1,Female,Typhoid,2025-01-30,2025-02-03,Dr. Phelps,General Medicine,98640
+P0805,Samuel Obrien,17,Female,Hypertension,2024-03-23,2024-03-28,Dr. Armstrong,Cardiology,78423
+P0806,Gregory Mcguire,90,Female,Dengue,2025-01-21,2025-02-05,Dr. Cooper,General Medicine,44478
+P0807,Aaron Murphy,7,Female,Hypertension,2025-07-05,2025-07-18,Dr. Wright,Cardiology,49356
+P0808,Brian Murray,53,Male,Typhoid,2024-06-22,2024-07-04,Dr. Dunn,General Medicine,76249
+P0809,Anthony Torres,87,Female,Heart Disease,2025-03-07,2025-03-10,Dr. Castro,Cardiology,21775
+P0810,Oscar Mason,48,Male,Pneumonia,2025-09-13,2025-09-22,Dr. Roman,Pulmonology,109386
+P0811,Melissa Clayton,87,Female,Hypertension,2024-11-04,2024-11-17,Dr. Mason,Cardiology,42685
+P0812,Gerald Fuentes,31,Male,COVID-19,2024-04-10,2024-04-23,Dr. Wilson,General Medicine,74925
+P0813,Hannah Cook,85,Male,Typhoid,2024-06-27,2024-07-04,Dr. Chandler,General Medicine,8668
+P0814,Jennifer Austin,70,Female,Dengue,2025-03-04,2025-03-18,Dr. Greene,General Medicine,10157
+P0815,Mr. Donald Douglas,76,Male,Diabetes,2025-01-04,2025-01-14,Dr. Zimmerman,Endocrinology,100484
+P0816,Patrick Robinson,17,Female,Heart Disease,2025-10-12,2025-10-22,Dr. Stewart,Cardiology,19666
+P0817,Luis Strong,34,Male,COVID-19,2025-12-13,2025-12-19,Dr. Huang,General Medicine,77194
+P0818,Nicholas Walker,45,Female,Asthma,2024-12-28,2025-01-03,Dr. Russell,Pulmonology,88457
+P0819,Christine Banks,87,Female,Diabetes,2024-11-28,2024-12-06,Dr. Ramos,Endocrinology,143622
+P0820,Stephen Hart,38,Female,Diabetes,2025-10-06,2025-10-18,Dr. Torres,Endocrinology,120063
+P0821,Erin Grant,9,Female,Pneumonia,2025-03-09,2025-03-15,Dr. Tyler,Pulmonology,67996
+P0822,Zachary Sanchez,68,Male,Arthritis,2025-06-25,2025-07-10,Dr. Townsend,Orthopedics,14635
+P0823,Lisa Barrera,44,Female,COVID-19,2024-06-01,2024-06-07,Dr. Smith,General Medicine,69314
+P0824,Bobby Foster,24,Female,Hypertension,2025-07-19,2025-07-29,Dr. Fernandez,Cardiology,70700
+P0825,Tyler Riddle,39,Male,Typhoid,2025-09-14,2025-09-26,Dr. Hale,General Medicine,146128
+P0826,Joseph Jimenez,81,Male,Typhoid,2025-06-20,2025-06-26,Dr. Smith,General Medicine,114326
+P0827,Tanner Smith,64,Male,Typhoid,2025-09-25,2025-09-28,Dr. Jones,General Medicine,38324
+P0828,Jessica Dorsey,27,Female,COVID-19,2024-03-12,2024-03-20,Dr. Christensen,General Medicine,16118
+P0829,Clinton Flores,51,Female,COVID-19,2024-05-14,2024-05-19,Dr. Patel,General Medicine,98887
+P0830,Jonathan Brandt,1,Female,Hypertension,2025-05-28,2025-06-12,Dr. Gray,Cardiology,108656
+P0831,Jennifer Smith MD,56,Female,Heart Disease,2024-10-29,2024-11-09,Dr. Reynolds,Cardiology,7389
+P0832,David Hunt,37,Female,Typhoid,2025-06-17,2025-06-24,Dr. Stewart,General Medicine,99034
+P0833,Kimberly Schneider,16,Female,Typhoid,2024-05-08,2024-05-10,Dr. Hamilton,General Medicine,63269
+P0834,Mrs. Deborah Navarro MD,14,Male,Heart Disease,2025-08-14,2025-08-29,Dr. Fleming,Cardiology,23751
+P0835,Kimberly Harvey,34,Male,Typhoid,2024-08-12,2024-08-24,Dr. Green,General Medicine,112184
+P0836,Kelly Walton,26,Female,Typhoid,2025-10-23,2025-11-05,Dr. Mccarty,General Medicine,46398
+P0837,Emma Woods,8,Male,Pneumonia,2024-04-02,2024-04-15,Dr. Walters,Pulmonology,21446
+P0838,Danielle Rocha,47,Male,COVID-19,2024-12-08,2024-12-22,Dr. Patterson,General Medicine,31135
+P0839,Richard Cooper,60,Female,Arthritis,2025-03-10,2025-03-20,Dr. Norris,Orthopedics,136171
+P0840,Jesus Marsh,15,Male,Diabetes,2024-10-29,2024-11-12,Dr. Shelton,Endocrinology,87099
+P0841,Tyler Walker,58,Male,Diabetes,2025-12-10,2025-12-23,Dr. Moody,Endocrinology,5780
+P0842,Scott Serrano,14,Female,Pneumonia,2024-10-01,2024-10-08,Dr. Mathis,Pulmonology,20712
+P0843,Angela Walsh,21,Male,Typhoid,2025-07-14,2025-07-24,Dr. Price,General Medicine,38801
+P0844,James Jones,44,Male,COVID-19,2025-09-09,2025-09-10,Dr. Boone,General Medicine,94941
+P0845,Amanda Snyder,88,Male,COVID-19,2025-03-01,2025-03-07,Dr. Gray,General Medicine,134088
+P0846,Stacey Meadows,71,Female,Heart Disease,2025-11-09,2025-11-16,Dr. Robertson,Cardiology,132118
+P0847,Adrian Roberts,83,Male,Pneumonia,2025-08-14,2025-08-28,Dr. Ryan,Pulmonology,49952
+P0848,Jay Bradley,5,Female,Migraine,2024-06-18,2024-06-23,Dr. Mccoy,Neurology,5344
+P0849,Julia Gonzalez,74,Male,Typhoid,2025-11-16,2025-11-24,Dr. Watkins,General Medicine,105388
+P0850,Connor Hernandez,17,Male,Arthritis,2025-06-09,2025-06-10,Dr. Carr,Orthopedics,74134
+P0851,Amy Cooper DDS,25,Male,Migraine,2024-05-10,2024-05-21,Dr. Dunn,Neurology,63728
+P0852,Joseph Carr,69,Female,Arthritis,2025-07-03,2025-07-09,Dr. Mccall,Orthopedics,103140
+P0853,Joseph Hernandez,79,Male,Dengue,2024-11-30,2024-12-09,Dr. Randolph,General Medicine,49873
+P0854,Albert Mason,78,Male,Dengue,2025-08-11,2025-08-15,Dr. Howell,General Medicine,72794
+P0855,Pamela Parker,17,Male,Diabetes,2025-06-29,2025-07-07,Dr. Rivera,Endocrinology,105079
+P0856,Anthony Smith,26,Male,Heart Disease,2024-08-31,2024-09-05,Dr. Velasquez,Cardiology,90289
+P0857,Dana Hicks,14,Male,Hypertension,2024-05-24,2024-06-01,Dr. Skinner,Cardiology,113344
+P0858,Nicholas Sparks,68,Male,Pneumonia,2024-03-05,2024-03-09,Dr. Reynolds,Pulmonology,113768
+P0859,David Chavez,42,Female,COVID-19,2025-09-17,2025-10-02,Dr. Williams,General Medicine,6353
+P0860,Benjamin Curtis III,4,Female,Arthritis,2024-11-27,2024-12-07,Dr. Foster,Orthopedics,126533
+P0861,Madeline Ryan,33,Female,Arthritis,2025-03-07,2025-03-20,Dr. Contreras,Orthopedics,24800
+P0862,John Adams,4,Female,Dengue,2025-12-31,2026-01-02,Dr. Reese,General Medicine,110188
+P0863,Joe Peterson,23,Female,COVID-19,2025-02-27,2025-03-05,Dr. Lee,General Medicine,80750
+P0864,David Thomas,41,Female,Migraine,2025-05-20,2025-05-29,Dr. Davis,Neurology,134458
+P0865,Deborah Shields,28,Female,Hypertension,2025-12-06,2025-12-12,Dr. Torres,Cardiology,43164
+P0866,Grant Castro,81,Female,Typhoid,2025-12-22,2026-01-03,Dr. Lambert,General Medicine,77808
+P0867,Nathan Garcia,38,Female,Hypertension,2024-12-06,2024-12-19,Dr. Dixon,Cardiology,24103
+P0868,Wayne Martinez,25,Male,Hypertension,2025-11-02,2025-11-06,Dr. Flores,Cardiology,139500
+P0869,Brittany Leonard,63,Male,Typhoid,2025-05-02,2025-05-17,Dr. Adkins,General Medicine,122366
+P0870,Benjamin Clark,87,Female,Migraine,2024-10-04,2024-10-08,Dr. Ferguson,Neurology,125354
+P0871,Jacob Waters,24,Male,Pneumonia,2025-11-25,2025-12-05,Dr. Robinson,Pulmonology,60714
+P0872,Sierra Cooley,47,Female,Asthma,2025-11-22,2025-11-27,Dr. Buckley,Pulmonology,36515
+P0873,Brandon Wagner DVM,44,Male,Dengue,2024-12-27,2025-01-06,Dr. Velez,General Medicine,77775
+P0874,Jeremy Ortega,76,Male,Migraine,2025-06-23,2025-07-05,Dr. Perry,Neurology,62368
+P0875,Brianna Green,51,Female,COVID-19,2024-12-31,2025-01-02,Dr. Vargas,General Medicine,15396
+P0876,Lisa Anderson,10,Female,Arthritis,2024-03-04,2024-03-16,Dr. Bryant,Orthopedics,5874
+P0877,Cheryl Cross,55,Female,Arthritis,2024-11-26,2024-12-09,Dr. Cabrera,Orthopedics,23940
+P0878,Sara Burns,27,Female,Typhoid,2025-11-16,2025-11-23,Dr. Jefferson,General Medicine,138218
+P0879,Amanda Byrd,36,Male,Heart Disease,2025-07-18,2025-07-23,Dr. Lee,Cardiology,109917
+P0880,Clayton Delgado,34,Female,COVID-19,2024-11-03,2024-11-18,Dr. Hawkins,General Medicine,131102
+P0881,Justin Moreno,24,Male,Hypertension,2025-01-12,2025-01-27,Dr. Carter,Cardiology,78972
+P0882,Martin Miller,68,Female,Typhoid,2024-06-17,2024-06-18,Dr. Perez,General Medicine,110248
+P0883,Desiree Figueroa,42,Male,Migraine,2025-09-22,2025-09-27,Dr. Salazar,Neurology,70550
+P0884,Jennifer Conner,33,Female,Typhoid,2025-02-18,2025-02-25,Dr. Clark,General Medicine,61683
+P0885,Julia Levine,22,Female,Pneumonia,2024-03-04,2024-03-19,Dr. Hawkins,Pulmonology,7202
+P0886,Eric Robinson,32,Male,Dengue,2025-03-07,2025-03-17,Dr. Castillo,General Medicine,41140
+P0887,Mary French,63,Male,Hypertension,2025-10-14,2025-10-18,Dr. Reynolds,Cardiology,120346
+P0888,Jonathan Green,49,Male,COVID-19,2025-09-05,2025-09-09,Dr. Jones,General Medicine,19250
+P0889,Lisa Taylor,79,Male,Arthritis,2024-12-17,2024-12-24,Dr. Humphrey,Orthopedics,87092
+P0890,Alan Nelson,44,Female,COVID-19,2024-10-06,2024-10-21,Dr. Perkins,General Medicine,104999
+P0891,Sandra Gentry,26,Male,Migraine,2024-12-30,2025-01-05,Dr. Kim,Neurology,85492
+P0892,Billy Anderson,34,Male,Hypertension,2024-08-09,2024-08-22,Dr. Rogers,Cardiology,89883
+P0893,Lori Pearson,85,Male,Dengue,2024-04-05,2024-04-09,Dr. Smith,General Medicine,31421
+P0894,Elizabeth Cohen,53,Male,COVID-19,2025-07-21,2025-08-01,Dr. Lamb,General Medicine,81331
+P0895,Charles Stuart,5,Female,Arthritis,2025-05-28,2025-06-04,Dr. Bautista,Orthopedics,101671
+P0896,Robert Morrison,9,Female,Diabetes,2025-02-21,2025-03-03,Dr. Mills,Endocrinology,131226
+P0897,Wanda Mcguire,82,Female,Diabetes,2024-08-01,2024-08-08,Dr. Jackson,Endocrinology,26908
+P0898,Brenda Robles,24,Male,Typhoid,2024-06-16,2024-06-24,Dr. Smith,General Medicine,73535
+P0899,Michael Farrell,79,Female,Dengue,2024-01-04,2024-01-13,Dr. Mcdonald,General Medicine,29941
+P0900,Joseph Mcbride,71,Female,Pneumonia,2024-03-03,2024-03-14,Dr. Cooper,Pulmonology,66063
+P0901,Melissa Clark,55,Female,Heart Disease,2024-05-06,2024-05-13,Dr. Reese,Cardiology,144802
+P0902,Jose Mcdaniel,26,Female,Pneumonia,2024-09-04,2024-09-09,Dr. Cobb,Pulmonology,91286
+P0903,Jennifer Baldwin,1,Female,Typhoid,2025-02-23,2025-03-02,Dr. Parker,General Medicine,74664
+P0904,Vincent Morris,29,Male,Asthma,2025-03-19,2025-03-24,Dr. Schultz,Pulmonology,19071
+P0905,Anita Lowery,53,Male,Pneumonia,2025-07-12,2025-07-22,Dr. Greer,Pulmonology,35266
+P0906,Amanda Love,19,Female,Arthritis,2025-08-06,2025-08-11,Dr. Garcia,Orthopedics,58804
+P0907,Victoria Kelly,8,Female,Heart Disease,2024-10-01,2024-10-09,Dr. Richard,Cardiology,18486
+P0908,Christine Estrada,84,Female,Hypertension,2024-11-26,2024-11-28,Dr. Garcia,Cardiology,70237
+P0909,Kimberly Robinson,81,Female,Pneumonia,2025-08-29,2025-09-09,Dr. Walsh,Pulmonology,78972
+P0910,Marilyn Ellison PhD,50,Male,Dengue,2024-06-11,2024-06-21,Dr. Munoz,General Medicine,139997
+P0911,Joseph Rodriguez,89,Male,Migraine,2024-03-03,2024-03-08,Dr. Ball,Neurology,16312
+P0912,Carl Warren,46,Female,Migraine,2025-08-23,2025-09-03,Dr. Jones,Neurology,45381
+P0913,Jennifer Davies,48,Male,Arthritis,2025-07-16,2025-07-24,Dr. Allen,Orthopedics,16195
+P0914,Tonya Payne,60,Male,Typhoid,2025-05-06,2025-05-11,Dr. Long,General Medicine,134486
+P0915,Robert Stevens,39,Female,Diabetes,2025-03-15,2025-03-27,Dr. Wood,Endocrinology,51990
+P0916,Christopher Hernandez,80,Female,Pneumonia,2025-06-29,2025-07-12,Dr. Duncan,Pulmonology,76853
+P0917,Alejandro Tate,4,Female,COVID-19,2025-12-21,2025-12-29,Dr. Norton,General Medicine,110848
+P0918,Nicole Watkins,23,Female,Asthma,2024-09-02,2024-09-05,Dr. Marks,Pulmonology,136907
+P0919,Beth Hernandez,36,Male,Migraine,2024-06-06,2024-06-17,Dr. Stuart,Neurology,136706
+P0920,Judith Mack,51,Female,Typhoid,2024-11-15,2024-11-23,Dr. Spencer,General Medicine,10645
+P0921,Natasha Williams,12,Male,Dengue,2024-08-14,2024-08-23,Dr. Clements,General Medicine,104800
+P0922,Ariel Williams,69,Male,Diabetes,2024-03-02,2024-03-10,Dr. Bass,Endocrinology,139723
+P0923,Stephen Santiago,24,Female,Diabetes,2024-08-07,2024-08-21,Dr. Phillips,Endocrinology,64240
+P0924,Tyler Ayers,38,Male,Arthritis,2025-01-30,2025-02-04,Dr. Williams,Orthopedics,138861
+P0925,Jason Luna,17,Male,COVID-19,2025-01-12,2025-01-26,Dr. Nguyen,General Medicine,71207
+P0926,Michele Hall,59,Male,Heart Disease,2025-01-05,2025-01-13,Dr. Hart,Cardiology,51305
+P0927,John Smith,61,Female,Heart Disease,2024-11-19,2024-11-20,Dr. Martin,Cardiology,104612
+P0928,Cynthia Robbins,42,Male,Asthma,2025-04-23,2025-04-25,Dr. Compton,Pulmonology,66132
+P0929,Terrance Cunningham,71,Male,Diabetes,2024-02-04,2024-02-19,Dr. Moore,Endocrinology,146079
+P0930,Stephanie Yang,31,Female,Dengue,2024-07-17,2024-07-30,Dr. Keller,General Medicine,10158
+P0931,Eduardo Campbell,65,Male,Heart Disease,2024-03-28,2024-04-12,Dr. Smith,Cardiology,84604
+P0932,Crystal Petersen,84,Male,Hypertension,2024-06-16,2024-06-25,Dr. Johnson,Cardiology,125254
+P0933,Eric Evans,76,Female,Migraine,2025-03-15,2025-03-27,Dr. Moore,Neurology,7058
+P0934,Leslie Tate,50,Female,Arthritis,2024-04-08,2024-04-12,Dr. Baker,Orthopedics,110946
+P0935,Stephanie Reynolds,38,Male,Arthritis,2025-02-17,2025-03-04,Dr. Anderson,Orthopedics,148577
+P0936,Robert Velasquez,28,Male,Asthma,2025-01-22,2025-01-31,Dr. Skinner,Pulmonology,98597
+P0937,Tracey Gallegos,80,Male,Asthma,2025-05-25,2025-05-28,Dr. Dickerson,Pulmonology,22593
+P0938,Haley Bennett,39,Male,Asthma,2025-01-06,2025-01-20,Dr. Williams,Pulmonology,119847
+P0939,Ashley Arnold,31,Male,Typhoid,2024-06-25,2024-07-05,Dr. Mitchell,General Medicine,92469
+P0940,Justin Winters,36,Female,Asthma,2025-03-25,2025-03-28,Dr. Gray,Pulmonology,124600
+P0941,Donna Curtis,18,Female,Hypertension,2025-06-04,2025-06-19,Dr. Hardy,Cardiology,104344
+P0942,Rebecca Hoffman,80,Female,Heart Disease,2025-06-23,2025-07-05,Dr. Shea,Cardiology,67479
+P0943,Angela Wiley,80,Male,Diabetes,2025-08-13,2025-08-19,Dr. Clark,Endocrinology,12846
+P0944,Heather Ramirez,43,Female,Diabetes,2025-05-06,2025-05-14,Dr. Atkinson,Endocrinology,78279
+P0945,James Hawkins,86,Female,Migraine,2025-02-03,2025-02-10,Dr. Price,Neurology,88460
+P0946,Robert Martin,67,Female,Pneumonia,2024-03-08,2024-03-19,Dr. Nguyen,Pulmonology,16402
+P0947,Gavin Grant,69,Male,Asthma,2025-05-28,2025-05-29,Dr. Smith,Pulmonology,49657
+P0948,Jose Johnson,53,Female,Heart Disease,2024-12-11,2024-12-25,Dr. Hernandez,Cardiology,113256
+P0949,Melissa Davis,60,Male,Pneumonia,2025-10-17,2025-10-19,Dr. Campbell,Pulmonology,76329
+P0950,Sabrina Grant,84,Female,COVID-19,2025-10-04,2025-10-18,Dr. Ellis,General Medicine,116888
+P0951,Rebecca Martin,54,Male,Dengue,2024-07-14,2024-07-25,Dr. Gomez,General Medicine,69333
+P0952,William Manning,11,Male,Pneumonia,2024-03-17,2024-03-28,Dr. Martin,Pulmonology,19372
+P0953,Mitchell Bruce,58,Female,Dengue,2025-01-10,2025-01-21,Dr. Lawrence,General Medicine,84627
+P0954,Samuel Stevens,86,Male,Dengue,2025-12-31,2026-01-11,Dr. Wells,General Medicine,117357
+P0955,David Booth,80,Male,Pneumonia,2024-04-29,2024-05-09,Dr. Miller,Pulmonology,124448
+P0956,Shannon Roman,8,Female,Asthma,2024-11-13,2024-11-15,Dr. Moss,Pulmonology,129931
+P0957,Kyle Smith,16,Female,COVID-19,2025-11-17,2025-12-01,Dr. Evans,General Medicine,91378
+P0958,Miguel Wallace,26,Male,Asthma,2025-11-16,2025-11-20,Dr. Stewart,Pulmonology,143286
+P0959,Joshua Cox,88,Male,Hypertension,2025-12-19,2025-12-26,Dr. Patterson,Cardiology,28671
+P0960,Kelli Tanner,87,Female,Arthritis,2024-08-21,2024-08-23,Dr. Alvarez,Orthopedics,69451
+P0961,Brendan Reese,82,Male,Pneumonia,2024-03-03,2024-03-15,Dr. Gilbert,Pulmonology,138579
+P0962,Christopher Hartman,31,Female,Typhoid,2025-09-13,2025-09-21,Dr. Hanson,General Medicine,134656
+P0963,Lee Warner,45,Female,Hypertension,2025-08-03,2025-08-09,Dr. Edwards,Cardiology,83434
+P0964,Rebecca Kelly,14,Male,Pneumonia,2025-06-12,2025-06-23,Dr. Brown,Pulmonology,98312
+P0965,Daniel Boone,23,Female,Arthritis,2024-07-15,2024-07-28,Dr. Perkins,Orthopedics,97801
+P0966,Cheryl Mendez,74,Female,Pneumonia,2024-06-08,2024-06-19,Dr. Bennett,Pulmonology,125692
+P0967,Laura Harrison,24,Female,Hypertension,2025-03-13,2025-03-20,Dr. King,Cardiology,42228
+P0968,Robert Fuller,9,Male,Dengue,2025-09-02,2025-09-12,Dr. Martinez,General Medicine,13226
+P0969,Sydney Rocha,73,Female,Migraine,2024-10-04,2024-10-16,Dr. Davis,Neurology,44668
+P0970,Crystal Rowland,75,Male,Pneumonia,2025-08-13,2025-08-22,Dr. Jackson,Pulmonology,100662
+P0971,Shannon Mcdonald,47,Male,Typhoid,2025-04-02,2025-04-09,Dr. Dunn,General Medicine,118483
+P0972,Mark Robinson,26,Female,Heart Disease,2024-06-26,2024-06-29,Dr. Wells,Cardiology,46378
+P0973,Lynn Hall,85,Male,Dengue,2024-08-30,2024-09-08,Dr. Hughes,General Medicine,114789
+P0974,Mark Figueroa MD,24,Male,COVID-19,2025-09-03,2025-09-14,Dr. Jackson,General Medicine,93284
+P0975,Elizabeth Williams,87,Male,Migraine,2025-01-07,2025-01-12,Dr. Zuniga,Neurology,10720
+P0976,Connor Porter,61,Male,Hypertension,2024-09-22,2024-09-30,Dr. Jacobs,Cardiology,148874
+P0977,Kristy Richmond,41,Female,Typhoid,2024-08-15,2024-08-29,Dr. Bishop,General Medicine,126132
+P0978,Sherri Anderson,11,Male,Pneumonia,2025-11-03,2025-11-15,Dr. Gonzalez,Pulmonology,87163
+P0979,Stephen Powers,27,Male,Pneumonia,2025-11-11,2025-11-12,Dr. Carter,Pulmonology,42155
+P0980,Scott Phillips,79,Female,Asthma,2024-06-08,2024-06-22,Dr. Smith,Pulmonology,67387
+P0981,Teresa Lyons,51,Male,COVID-19,2025-03-04,2025-03-10,Dr. Clark,General Medicine,108429
+P0982,Katie Garcia,29,Female,Asthma,2025-09-17,2025-09-18,Dr. Villanueva,Pulmonology,83987
+P0983,Shannon Smith,14,Female,Dengue,2024-03-20,2024-04-02,Dr. Hall,General Medicine,68480
+P0984,Joe Rodriguez,22,Male,Migraine,2024-07-09,2024-07-17,Dr. Cunningham,Neurology,87972
+P0985,Timothy Thompson,11,Male,Dengue,2024-12-02,2024-12-06,Dr. Bray,General Medicine,124781
+P0986,Sierra Schmidt,50,Male,Hypertension,2025-01-22,2025-02-04,Dr. Webb,Cardiology,119048
+P0987,Leslie Wells,53,Female,Pneumonia,2024-02-10,2024-02-22,Dr. Daniels,Pulmonology,104819
+P0988,Jacob Mooney,29,Male,Asthma,2025-11-05,2025-11-15,Dr. Cruz,Pulmonology,74588
+P0989,Justin Callahan,29,Female,Diabetes,2025-07-12,2025-07-17,Dr. Salazar,Endocrinology,86272
+P0990,David Montgomery,65,Male,Pneumonia,2024-09-05,2024-09-14,Dr. Carlson,Pulmonology,90302
+P0991,David Lee,8,Male,Typhoid,2024-09-07,2024-09-13,Dr. Chapman,General Medicine,104576
+P0992,Rachel Wise,69,Female,Diabetes,2025-12-22,2025-12-30,Dr. Sutton,Endocrinology,18769
+P0993,Adam Scott,78,Female,Typhoid,2024-08-02,2024-08-10,Dr. Carter,General Medicine,42995
+P0994,Edward Wheeler,18,Male,COVID-19,2024-08-08,2024-08-15,Dr. Cook,General Medicine,112123
+P0995,Nathan Castro,32,Male,Arthritis,2024-09-28,2024-10-13,Dr. Ramirez,Orthopedics,40968
+P0996,Teresa Mack,21,Male,Heart Disease,2024-02-22,2024-02-26,Dr. Nicholson,Cardiology,131595
+P0997,David Cervantes,64,Male,Typhoid,2025-11-30,2025-12-12,Dr. Fernandez,General Medicine,55220
+P0998,Ruben Wright,10,Female,Migraine,2024-02-08,2024-02-19,Dr. Flores,Neurology,140955
+P0999,William Velez,74,Male,Arthritis,2024-08-18,2024-08-22,Dr. Smith,Orthopedics,46615
+P1000,Katie Murray,27,Male,Migraine,2025-10-01,2025-10-16,Dr. Franklin,Neurology,9842
